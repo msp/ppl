@@ -36,21 +36,23 @@
     var innerTop    = f.select('#innerTop');
     var innerBottom = f.select('#innerBottom');
 
-    f.selectAll('#outerLeft path').attr({visibility: 'hidden'});
-    f.selectAll('#outerTop path').attr({visibility: 'hidden'});
-    f.selectAll('#outerBottom path').attr({visibility: 'hidden'});
+    f.selectAll('#outerLeft path').attr({visibility: 'hidden', opacity: 0});
+    f.selectAll('#outerTop path').attr({visibility: 'hidden', opacity: 0});
+    f.selectAll('#outerBottom path').attr({visibility: 'hidden', opacity: 0});
 
     // attach to DOM
     s.append(f);
 
     // playtime
-    tl.staggerFrom($('#innerLeft, #innerTop, #innerBottom'), 1, { autoAlpha: 0 }, 0.2);
+    tl.staggerFrom($('#innerTop, #innerBottom, #innerLeft'), 1, { autoAlpha: 0 }, 0.2);
 
 
     // events
     innerLeft.node.onclick = function () {
-      // tl.staggerFrom('.outerLeft', 1, { autoAlpha: 0 }, 0.05);
-      tl.staggerFrom($('#outerLeft path'), 1, { autoAlpha: 0 }, 0.05);
+      console.log('left clicked');
+      tl.to($('#outerTop path'), 0.2, { autoAlpha: 0 })
+        .to($('#outerBottom path'), 0.2, { autoAlpha: 0 })
+        .staggerTo($('#outerLeft path'), 1, { autoAlpha: 1 }, 0.05);
     };
 
     $('#outerLeft path').click(function() {
@@ -58,7 +60,10 @@
     });
 
     innerTop.node.onclick = function () {
-      tl.staggerFrom($('#outerTop path'), 1, { autoAlpha: 0 }, 0.05);
+      console.log('top clicked');
+      tl.to($('#outerLeft path'), 0.2, { autoAlpha: 0 })
+        .to($('#outerBottom path'), 0.2, { autoAlpha: 0 })
+        .staggerTo($('#outerTop path'), 1, { autoAlpha: 1 }, 0.05);
     };
 
     $('#outerTop path').click(function() {
@@ -66,7 +71,10 @@
     });
 
     innerBottom.node.onclick = function () {
-      tl.staggerFrom($('#outerBottom path'), 1, { autoAlpha: 0 }, 0.05);
+      console.log('bottom clicked');
+      tl.to($('#outerTop path'), 0.2, { autoAlpha: 0 })
+        .to($('#outerLeft path'), 0.2, { autoAlpha: 0 })
+        .staggerTo($('#outerBottom path'), 1, { autoAlpha: 1 }, 0.05);
     };
 
     $('#outerBottom path').click(function() {
