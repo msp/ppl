@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="596" height="842"  xml:space="preserve">
+    <defs>
+        <linearGradient id="sVGID_6_-innerbottom" x1="142.78" y1="365.34" x2="471.26" y2="365.34" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="sVGID_10_-innertop" x1="142.78" y1="285.84" x2="471.26" y2="285.84" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="sVGID_11_-innerleft" x1="142.79" y1="325.2" x2="471.26" y2="325.2" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="sVGID_12_-bezier22" x1="142.79" y1="419.73" x2="471.26" y2="419.73" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="sVGID_13_-bezier23" x1="142.79" y1="234.22" x2="471.26" y2="234.22" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="sVGID_14_-bezier24" x1="142.79" y1="373.5" x2="471.26" y2="373.5" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="sVGID_15_-bezier27" x1="142.79" y1="288.02" x2="471.26" y2="288.02" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="sVGID_2_-bezier2" x1="142.79" y1="368.31" x2="471.26" y2="368.31" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="sVGID_3_-bezier3" x1="142.79" y1="419.69" x2="471.26" y2="419.69" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="sVGID_7_-bezier11" x1="142.78" y1="443.49" x2="471.26" y2="443.49" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="sVGID_8_-bezier15" x1="142.79" y1="442.05" x2="471.26" y2="442.05" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="sVGID_1_-bezier" x1="142.79" y1="288.76" x2="471.26" y2="288.76" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="sVGID_4_-bezier4" x1="142.79" y1="239.55" x2="471.26" y2="239.55" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="sVGID_5_-bezier5" x1="142.79" y1="209.52" x2="471.26" y2="209.52" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="sVGID_9_-bezier16" x1="142.79" y1="208.74" x2="471.26" y2="208.74" gradientUnits="userSpaceOnUse" >
+            <stop offset="0" stop-color="rgb(252, 190, 12)" stop-opacity="1" />
+            <stop offset="0.3" stop-color="rgb(244, 151, 18)" stop-opacity="1" />
+            <stop offset="0.97" stop-color="rgb(224, 59, 36)" stop-opacity="1" />
+            <stop offset="1" stop-color="rgb(222, 55, 38)" stop-opacity="1" />
+        </linearGradient>
+    </defs>
+    <g id="xMLID_1_">
+        <g id="pie">
+            <path id="innerbottom" stroke="none" fill="url(#sVGID_6_-innerbottom)" d="M 377.38,370.64 L 377.38,370.65 C 369.56,382 358.86,391.22 346.34,397.25 336.14,402.17 324.73,404.97 312.68,405.08 312.42,405.09 312.15,405.09 311.88,405.09 297.27,405.09 283.58,401.15 271.82,394.27 L 273.09,392.07 C 273.68,391.05 274.25,390.05 274.83,389.06 L 293.77,356.25 C 294.19,355.52 294.6,354.8 295.01,354.1 L 306.31,334.53 C 306.53,334.14 306.75,333.77 306.95,333.41 L 311.47,325.59 C 341.39,325.59 351.45,325.59 391.38,325.59 391.38,342.32 386.21,357.84 377.38,370.64 Z M 377.38,370.64" />
+            <path id="bezier7" stroke="none" fill="rgb(251, 0, 215)" d="M 383.42,374.13 L 382.09,373.36 C 382.51,373.6 382.95,373.86 383.42,374.13 Z M 383.42,374.13" />
+            <path id="bezier8" stroke="none" fill="rgb(251, 0, 215)" d="M 374.05,223.06 L 371.29,227.84 C 372.17,226.32 373.09,224.73 374.05,223.06 Z M 374.05,223.06" />
+            <path id="bezier9" stroke="none" fill="rgb(251, 0, 215)" d="M 370.43,229.33 L 368.79,232.18 C 369.32,231.26 369.86,230.31 370.43,229.33 Z M 370.43,229.33" />
+            <path id="bezier10" stroke="none" fill="rgb(251, 0, 215)" d="M 368.79,232.18 L 367.25,234.84 C 367.74,233.98 368.26,233.1 368.79,232.18 Z M 368.79,232.18" />
+            <path id="bezier12" stroke="none" fill="rgb(251, 0, 215)" d="M 359.28,248.64 L 358.51,249.98 C 358.75,249.56 359.01,249.11 359.28,248.64 Z M 359.28,248.64" />
+            <path id="bezier13" stroke="none" fill="rgb(251, 0, 215)" d="M 358.51,249.98 L 357.82,251.17 C 358.04,250.8 358.27,250.4 358.51,249.98 Z M 358.51,249.98" />
+            <path id="bezier14" stroke="none" fill="rgb(251, 0, 215)" d="M 357.49,251.76 L 356.94,252.7 C 357.11,252.41 357.29,252.09 357.49,251.76 Z M 357.49,251.76" />
+            <path id="innertop" stroke="none" fill="url(#sVGID_10_-innertop)" d="M 310.92,325.59 C 290.04,287.16 284.59,277.13 273.18,256.13 284.63,249.73 297.83,246.09 311.88,246.09 312.14,246.09 312.41,246.09 312.67,246.1 327.47,246.24 341.3,250.42 353.11,257.6 366.57,265.78 377.41,277.84 384.06,292.24 388.76,302.38 391.38,313.68 391.38,325.59 351.45,325.59 341.39,325.59 311.47,325.59 311.34,325.59 311.21,325.59 311.08,325.59 L 310.92,325.59 Z M 310.92,325.59" />
+            <path id="innerleft" stroke="none" fill="url(#sVGID_11_-innerleft)" d="M 232.71,332.78 C 232.49,330.41 232.38,328.01 232.38,325.59 232.38,312.31 235.63,299.8 241.39,288.8 L 241.72,288.99 C 241.64,288.94 241.54,288.87 241.4,288.78 248.58,275.05 259.67,263.67 273.18,256.13 284.59,277.13 290.04,287.16 310.92,325.59 L 311.08,325.59 C 311.21,325.59 311.34,325.59 311.47,325.59 L 306.95,333.41 306.31,334.53 295.01,354.1 293.77,356.25 274.83,389.06 273.09,392.07 271.82,394.27 C 261.38,388.17 252.45,379.76 245.75,369.73 238.56,358.98 233.92,346.37 232.71,332.78 Z M 232.71,332.78" />
+            <path id="bezier19" stroke="none" fill="rgb(251, 0, 215)" d="M 306.31,334.53 L 306.95,333.41 C 306.75,333.77 306.53,334.14 306.31,334.53 Z M 306.31,334.53" />
+            <path id="bezier20" stroke="none" fill="rgb(251, 0, 215)" d="M 293.77,356.25 L 295.01,354.1 C 294.6,354.8 294.19,355.52 293.77,356.25 Z M 293.77,356.25" />
+            <path id="bezier21" stroke="none" fill="rgb(251, 0, 215)" d="M 273.09,392.07 L 274.83,389.06 C 274.25,390.05 273.68,391.05 273.09,392.07 Z M 273.09,392.07" />
+            <path id="bezier28" stroke="none" fill="rgb(251, 0, 215)" d="M 234.36,376.31 L 235.99,375.37 C 235.47,375.68 234.93,375.99 234.36,376.31 Z M 234.36,376.31" />
+            <path id="bezier29" stroke="none" fill="rgb(251, 0, 215)" d="M 229.15,379.33 L 231.33,378.07 C 230.64,378.47 229.91,378.89 229.15,379.33 Z M 229.15,379.33" />
+            <path id="bezier30" stroke="none" fill="rgb(251, 0, 215)" d="M 225.53,381.42 L 227.99,380 C 227.2,380.45 226.38,380.93 225.53,381.42 Z M 225.53,381.42" />
+            <path id="bezier31" stroke="none" fill="rgb(251, 0, 215)" d="M 168.96,414.08 C 168.88,414.12 168.8,414.17 168.72,414.22 L 168.72,414.21 168.96,414.08 Z M 168.96,414.08" />
+            <path id="bezier32" stroke="none" fill="rgb(251, 0, 215)" d="M 164.92,243.19 C 164.9,243.21 164.89,243.24 164.88,243.26 L 159.88,240.28 C 161.59,241.27 163.27,242.24 164.92,243.19 Z M 164.92,243.19" />
+            <g id="outerleft">
+                <path id="bezier22" stroke="none" fill="url(#sVGID_12_-bezier22)" d="M 271.82,394.27 L 228.25,469.74 C 204.06,456.49 183.58,437.34 168.72,414.22 168.8,414.17 168.88,414.12 168.96,414.08 L 225.53,381.42 C 226.38,380.93 227.2,380.45 227.99,380 L 229.15,379.33 C 229.91,378.89 230.64,378.47 231.33,378.07 L 234.36,376.31 C 234.93,375.99 235.47,375.68 235.99,375.37 L 245.66,369.79 245.75,369.73 C 252.45,379.76 261.38,388.17 271.82,394.27 Z M 271.82,394.27" />
+                <path id="bezier23" stroke="none" fill="url(#sVGID_13_-bezier23)" d="M 273.18,256.13 C 259.67,263.67 248.58,275.05 241.4,288.78 237.89,286.56 214.8,272.07 164.92,243.19 180.62,216.18 203.8,194.05 231.62,179.65 253.79,220.42 265.01,241.09 273.18,256.13 Z M 273.18,256.13" />
+                <path id="bezier24" stroke="none" fill="url(#sVGID_14_-bezier24)" d="M 245.75,369.73 L 245.66,369.79 235.99,375.37 234.36,376.31 231.33,378.07 229.15,379.33 227.99,380 225.53,381.42 168.96,414.08 168.72,414.21 C 153.52,390.53 144.23,362.7 142.95,332.78 195.16,332.78 229.3,332.78 232.71,332.78 233.92,346.37 238.56,358.98 245.75,369.73 Z M 245.75,369.73" />
+                <path id="bezier27" stroke="none" fill="url(#sVGID_15_-bezier27)" d="M 164.88,243.26 L 241.39,288.8 C 235.63,299.8 232.38,312.31 232.38,325.59 232.38,328.01 232.49,330.41 232.71,332.78 229.3,332.78 195.16,332.78 142.95,332.78 142.84,330.4 142.79,328 142.79,325.59 142.79,295.59 150.83,267.46 164.88,243.26 Z M 164.88,243.26" />
+                <path id="bezier25" stroke="none" fill="rgb(251, 0, 215)" d="M 241.72,288.99 L 241.39,288.8 C 241.39,288.79 241.39,288.79 241.4,288.78 241.54,288.87 241.64,288.94 241.72,288.99 Z M 241.72,288.99" />
+            </g>
+            <g id="outerbottom">
+                <path id="bezier2" stroke="none" fill="url(#sVGID_2_-bezier2)" d="M 391.38,325.59 C 409.92,325.59 434.89,325.59 471.26,325.59 471.26,356.89 462.51,386.14 447.33,411.03 L 447.32,411.03 383.42,374.13 C 382.95,373.86 382.51,373.6 382.09,373.36 L 377.38,370.65 377.38,370.64 C 386.21,357.84 391.38,342.32 391.38,325.59 Z M 391.38,325.59" />
+                <path id="bezier3" stroke="none" fill="url(#sVGID_3_-bezier3)" d="M 383.42,374.13 L 447.32,411.03 C 432.69,434.99 412.1,454.92 387.61,468.73 360.2,421.27 365.1,429.75 346.34,397.25 358.86,391.22 369.56,382 377.38,370.65 L 382.09,373.36 383.42,374.13 Z M 383.42,374.13" />
+                <path id="bezier11" stroke="none" fill="url(#sVGID_7_-bezier11)" d="M 346.34,397.25 C 365.1,429.75 360.2,421.27 387.61,468.73 365.34,481.3 339.85,488.81 312.68,489.73 312.68,424.58 312.68,405.09 312.68,405.09 L 312.68,405.08 C 324.73,404.97 336.14,402.17 346.34,397.25 Z M 346.34,397.25" />
+                <path id="bezier15" stroke="none" fill="url(#sVGID_8_-bezier15)" d="M 311.88,405.09 C 312.15,405.09 312.42,405.09 312.68,405.08 L 312.68,405.09 C 312.68,405.09 312.68,424.58 312.68,489.73 310.8,489.8 308.91,489.83 307.02,489.83 278.48,489.83 251.63,482.55 228.25,469.74 L 271.82,394.27 C 283.58,401.15 297.27,405.09 311.88,405.09 Z M 311.88,405.09" />
+            </g>
+            <g id="outertop">
+                <path id="bezier" stroke="none" fill="url(#sVGID_1_-bezier)" d="M 471.26,325.59 C 434.89,325.59 409.92,325.59 391.38,325.59 391.38,313.68 388.76,302.38 384.06,292.24 389.91,288.86 409.04,277.81 453.86,251.93 464.99,274.08 471.26,299.1 471.26,325.59 Z M 471.26,325.59" />
+                <path id="bezier4" stroke="none" fill="url(#sVGID_4_-bezier4)" d="M 394.96,186.85 C 420.01,202.76 440.46,225.27 453.86,251.93 409.04,277.81 389.91,288.86 384.06,292.24 377.41,277.84 366.57,265.78 353.11,257.6 L 354.94,256.17 356.94,252.7 357.49,251.76 357.82,251.17 358.51,249.98 359.28,248.64 367.25,234.84 368.79,232.18 370.43,229.33 371.29,227.84 374.05,223.06 394.96,186.85 Z M 394.96,186.85" />
+                <path id="bezier5" stroke="none" fill="url(#sVGID_5_-bezier5)" d="M 394.96,186.85 L 374.05,223.06 C 373.09,224.73 372.17,226.32 371.29,227.84 L 370.43,229.33 C 369.86,230.31 369.32,231.26 368.79,232.18 368.26,233.1 367.74,233.98 367.25,234.84 L 359.28,248.64 C 359.01,249.11 358.75,249.56 358.51,249.98 358.27,250.4 358.04,250.8 357.82,251.17 L 357.49,251.76 C 357.29,252.09 357.11,252.41 356.94,252.7 L 354.94,256.17 353.11,257.6 C 341.3,250.42 327.47,246.24 312.67,246.1 L 312.68,245.29 C 312.68,245.29 312.68,226.78 312.68,161.45 342.89,162.47 371.03,171.65 394.96,186.85 Z M 394.96,186.85" />
+                <path id="bezier16" stroke="none" fill="url(#sVGID_9_-bezier16)" d="M 312.68,161.45 C 312.68,226.78 312.68,245.29 312.68,245.29 L 312.67,246.1 C 312.41,246.09 312.14,246.09 311.88,246.09 297.83,246.09 284.63,249.73 273.18,256.13 265.01,241.09 253.79,220.42 231.62,179.65 254.2,167.95 279.84,161.35 307.02,161.35 308.91,161.35 310.8,161.38 312.68,161.45 Z M 312.68,161.45" />
+            </g>
+        </g>
+        <g id="piesegmentsgrid">
+            <path id="bezier33" stroke="rgb(255, 255, 255)" stroke-miterlimit="10" fill="none" d="M 164.92,243.19 C 180.62,216.18 203.8,194.05 231.62,179.65 254.2,167.95 279.84,161.35 307.02,161.35 308.91,161.35 310.8,161.38 312.68,161.45 342.89,162.47 371.03,171.65 394.96,186.85 420.01,202.76 440.46,225.27 453.86,251.93 464.99,274.08 471.26,299.1 471.26,325.59 471.26,356.89 462.51,386.14 447.33,411.03" />
+            <path id="bezier34" stroke="rgb(255, 255, 255)" stroke-miterlimit="10" fill="none" d="M 168.72,414.21 C 153.52,390.53 144.23,362.7 142.95,332.78 142.84,330.4 142.79,328 142.79,325.59 142.79,295.59 150.83,267.46 164.88,243.26" />
+            <path id="bezier35" stroke="rgb(255, 255, 255)" stroke-miterlimit="10" fill="none" d="M 447.32,411.03 C 432.69,434.99 412.1,454.92 387.61,468.73 365.34,481.3 339.85,488.81 312.68,489.73 310.8,489.8 308.91,489.83 307.02,489.83 278.48,489.83 251.63,482.55 228.25,469.74 204.06,456.49 183.58,437.34 168.72,414.22" />
+            <path id="bezier36" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 241.4,288.78 C 248.58,275.05 259.67,263.67 273.18,256.13 284.63,249.73 297.83,246.09 311.88,246.09 312.14,246.09 312.41,246.09 312.67,246.1 327.47,246.24 341.3,250.42 353.11,257.6 366.57,265.78 377.41,277.84 384.06,292.24 388.76,302.38 391.38,313.68 391.38,325.59 391.38,342.32 386.21,357.84 377.38,370.64" />
+            <path id="bezier37" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 377.38,370.65 C 369.56,382 358.86,391.22 346.34,397.25 336.14,402.17 324.73,404.97 312.68,405.08 312.42,405.09 312.15,405.09 311.88,405.09 297.27,405.09 283.58,401.15 271.82,394.27 261.38,388.17 252.45,379.76 245.75,369.73 238.56,358.98 233.92,346.37 232.71,332.78 232.49,330.41 232.38,328.01 232.38,325.59 232.38,312.31 235.63,299.8 241.39,288.8" />
+            <path id="bezier38" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 121.88,332.78 C 129.19,332.78 136.22,332.78 142.95,332.78 195.16,332.78 229.3,332.78 232.71,332.78 232.9,332.78 232.99,332.78 232.99,332.78" />
+            <path id="bezier39" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 159.88,240.28 C 161.59,241.27 163.27,242.24 164.92,243.19 214.8,272.07 237.89,286.56 241.4,288.78 241.54,288.87 241.64,288.94 241.72,288.99" />
+            <path id="bezier40" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 241.72,288.99 L 241.88,289.09" />
+            <path id="bezier41" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 229.27,175.31 C 230.07,176.78 230.86,178.23 231.62,179.65 253.79,220.42 265.01,241.09 273.18,256.13 284.59,277.13 290.04,287.16 310.92,325.59" />
+            <path id="bezier42" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 312.68,159.29 C 312.68,160.01 312.68,160.73 312.68,161.45 312.68,226.78 312.68,245.29 312.68,245.29" />
+            <path id="bezier43" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 357.49,251.76 C 357.29,252.09 357.11,252.41 356.94,252.7" />
+            <path id="bezier44" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 359.28,248.64 C 359.01,249.11 358.75,249.56 358.51,249.98 358.27,250.4 358.04,250.8 357.82,251.17" />
+            <path id="bezier45" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 370.43,229.33 C 369.86,230.31 369.32,231.26 368.79,232.18 368.26,233.1 367.74,233.98 367.25,234.84" />
+            <path id="bezier46" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 374.05,223.06 C 373.09,224.73 372.17,226.32 371.29,227.84" />
+            <path id="bezier47" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 397.94,181.69 L 394.96,186.85" />
+            <path id="bezier48" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 374.05,223.06 L 394.96,186.85" />
+            <path id="bezier49" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 370.43,229.33 L 371.29,227.84" />
+            <path id="bezier50" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 359.28,248.64 L 367.25,234.84" />
+            <path id="bezier51" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 357.49,251.76 L 357.82,251.17" />
+            <path id="bezier52" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 354.94,256.17 L 356.94,252.7" />
+            <path id="bezier53" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 456.43,250.45 C 455.56,250.95 454.7,251.45 453.86,251.93 409.04,277.81 389.91,288.86 384.06,292.24 382.59,293.08 381.96,293.45 381.96,293.45" />
+            <path id="bezier54" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 311.08,325.59 C 311.21,325.59 311.34,325.59 311.47,325.59 341.39,325.59 351.45,325.59 391.38,325.59 409.92,325.59 434.89,325.59 471.26,325.59 473.75,325.59 476.29,325.59 478.88,325.59" />
+            <path id="bezier55" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 383.42,374.13 C 382.95,373.86 382.51,373.6 382.09,373.36" />
+            <path id="bezier56" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 450.38,412.79 L 447.33,411.03" />
+            <path id="bezier57" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 383.42,374.13 L 447.32,411.03 447.33,411.03" />
+            <path id="bezier58" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 375.9,369.79 L 377.38,370.64 377.38,370.65 382.09,373.36" />
+            <path id="bezier59" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 389.34,471.73 C 388.75,470.71 388.17,469.71 387.61,468.73 360.2,421.27 365.1,429.75 346.34,397.25" />
+            <path id="bezier60" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 312.68,522.41 C 312.68,510.42 312.68,499.55 312.68,489.73 312.68,424.58 312.68,405.09 312.68,405.09" />
+            <path id="bezier61" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 306.31,334.53 C 306.53,334.14 306.75,333.77 306.95,333.41" />
+            <path id="bezier62" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 293.77,356.25 C 294.19,355.52 294.6,354.8 295.01,354.1" />
+            <path id="bezier63" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 273.09,392.07 C 273.68,391.05 274.25,390.05 274.83,389.06" />
+            <path id="bezier64" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 273.09,392.07 L 271.82,394.27 228.25,469.74 227.51,471.02" />
+            <path id="bezier65" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 293.77,356.25 L 274.83,389.06" />
+            <path id="bezier66" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 306.31,334.53 L 295.01,354.1" />
+            <path id="bezier67" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 312.68,323.49 L 311.47,325.59 306.95,333.41" />
+            <path id="bezier68" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 234.36,376.31 C 234.93,375.99 235.47,375.68 235.99,375.37" />
+            <path id="bezier69" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 229.15,379.33 C 229.91,378.89 230.64,378.47 231.33,378.07" />
+            <path id="bezier70" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 225.53,381.42 C 226.38,380.93 227.2,380.45 227.99,380" />
+            <path id="bezier71" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 168.72,414.22 C 168.8,414.17 168.88,414.12 168.96,414.08" />
+            <path id="bezier72" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 168.72,414.22 L 166.08,415.74" />
+            <path id="bezier73" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 225.53,381.42 L 168.96,414.08" />
+            <path id="bezier74" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 229.15,379.33 L 227.99,380" />
+            <path id="bezier75" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 234.36,376.31 L 231.33,378.07" />
+            <path id="bezier76" stroke="rgb(255, 255, 255)" stroke-width="6.3" stroke-miterlimit="10" fill="none" d="M 245.66,369.79 L 235.99,375.37" />
+        </g>
+    </g>
+</svg>
