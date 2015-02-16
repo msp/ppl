@@ -1,0 +1,6 @@
+{
+  "name": "msp-ppl",
+  "root": "dist",
+  "clean_urls": true,
+  "error_page": "y"
+}
