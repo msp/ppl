@@ -1,12 +1,12 @@
 /* jshint devel:true */
-/*global Snap */
-/*global TimelineLite */
+/* global Snap */
+/* global TimelineLite */
 
 (function () {
   'use strict';
   console.log('PPL starting..');
 
-  var s = new Snap(2000,2000);
+  var s = new Snap(1920,1080);
   var tl = new TimelineLite();
 
   function goPlaylist(el) {
@@ -26,6 +26,7 @@
   function playVideo() {
     $('#playlist video')[0].play();
   }
+
   function pauseVideo() {
     $('#playlist video')[0].pause();
   }
@@ -44,7 +45,9 @@
     s.append(f);
 
     // playtime
-    tl.staggerFrom($('#innerTop, #innerBottom, #innerLeft'), 1, { autoAlpha: 0 }, 0.2);
+    tl.staggerFrom($('#innerTop, #innerBottom, #innerLeft'), 0.8, { autoAlpha: 0 }, 0.2)
+      .staggerFrom($('.inner'), 0.5, { autoAlpha: 0 }, 0.1);
+      // .from($('.inner'), 0.5, { autoAlpha: 0 });
 
 
     // events
