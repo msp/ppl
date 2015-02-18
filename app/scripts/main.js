@@ -1,6 +1,8 @@
 /* jshint devel:true */
 /* global Snap */
 /* global TimelineLite */
+/* global clickSound */
+/* global blipsSound */
 
 (function () {
   'use strict';
@@ -44,40 +46,57 @@
   }
 
   function bindEventHandlers() {
+    $('#innerLeft, #innerTop, #innerBottom, #outerLeft path, #outerTop path, #outerBottom path')
+      .mouseenter(function(){
+        $(this).css('opacity', 0.8);
+    });
+
+    $('#innerLeft, #innerTop, #innerBottom, #outerLeft path, #outerTop path, #outerBottom path')
+      .mouseout(function(){
+        $(this).css('opacity', 1);
+    });
+
     $('#innerLeft').click(function () {
       console.log('left clicked');
+      clickSound.playClip();
       tl.to($('#outerTop path'), 0.2, { autoAlpha: 0 })
         .to($('#outerBottom path'), 0.2, { autoAlpha: 0 })
         .staggerTo($('#outerLeft path'), 1, { autoAlpha: 1 }, 0.05);
     });
 
     $('#outerLeft path').click(function() {
+      blipsSound.playClip();
       goPlaylist($(this));
     });
 
     $('#innerTop').click(function () {
       console.log('top clicked');
+      clickSound.playClip();
       tl.to($('#outerLeft path'), 0.2, { autoAlpha: 0 })
         .to($('#outerBottom path'), 0.2, { autoAlpha: 0 })
         .staggerTo($('#outerTop path'), 1, { autoAlpha: 1 }, 0.05);
     });
 
     $('#outerTop path').click(function() {
+      blipsSound.playClip();
       goPlaylist($(this));
     });
 
     $('#innerBottom').click(function () {
       console.log('bottom clicked');
+      clickSound.playClip();
       tl.to($('#outerTop path'), 0.2, { autoAlpha: 0 })
         .to($('#outerLeft path'), 0.2, { autoAlpha: 0 })
         .staggerTo($('#outerBottom path'), 1, { autoAlpha: 1 }, 0.05);
     });
 
     $('#outerBottom path').click(function() {
+      blipsSound.playClip();
       goPlaylist($(this));
     });
 
     $('#home').click(function() {
+      clickSound.playClip();
       goHome();
     });
   }

@@ -3,5 +3,6 @@ dist
 .tmp
 .sass-cache
 .divshot-cache
+.idea
 bower_components
 test/bower_components

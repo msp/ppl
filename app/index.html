@@ -46,6 +46,46 @@
     //   ga('create','UA-XXXXX-X');ga('send','pageview');
     </script>
 
+    <script type="text/javascript">
+      var html5AudioTypes = {
+        "mp3": "audio/mpeg",
+        "mp4": "audio/mp4",
+        "ogg": "audio/ogg",
+        "wav": "audio/wav"
+      };
+
+      function initSound() {
+        var html5audio = document.createElement('audio');
+        if (html5audio.canPlayType) {
+          for (var i = 0; i < arguments.length; i++) {
+            var sourceEl = document.createElement('source');
+            sourceEl.setAttribute('src', arguments[i]);
+            if (arguments[i].match(/\.(\w+)$/i)) {
+              sourceEl.setAttribute('type', html5AudioTypes[RegExp.$1])
+            }
+            html5audio.appendChild(sourceEl);
+          }
+          html5audio.load();
+
+          html5audio.playClip = function () {
+            html5audio.pause();
+            html5audio.currentTime = 0;
+            html5audio.play();
+          };
+          return html5audio;
+        }
+        else {
+          return {playClip: function () {
+            throw new Error("Your browser doesn't support HTML5 audio unfortunately");
+          }}
+        }
+      }
+
+      var clickSound = initSound("click.ogg", "click.mp3");
+      var blipsSound = initSound("blips.ogg", "blips.mp3");
+
+    </script>
+
     <!-- build:js scripts/vendor.js -->
     <!-- bower:js -->
     <script src="../bower_components/jquery/dist/jquery.js"></script>
