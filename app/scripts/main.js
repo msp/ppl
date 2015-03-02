@@ -2,7 +2,6 @@
 /* global Snap */
 /* global TimelineLite */
 /* global clickSound */
-/* global blipsSound */
 
 (function () {
   'use strict';
@@ -13,7 +12,6 @@
   var json;
 
   function amendSVGWhilstLoading(f) {
-    f.selectAll('#outerLeft path').attr({visibility: 'hidden', opacity: 0});
     f.selectAll('#outerTop path').attr({visibility: 'hidden', opacity: 0});
     f.selectAll('#outerBottom path').attr({visibility: 'hidden', opacity: 0});
   }
@@ -22,9 +20,10 @@
     s.append(f);
   }
 
-  function animateInnerPie() {
+  function animatePie() {
     tl.staggerFrom($('#innerTop, #innerBottom, #innerLeft'), 0.8, { autoAlpha: 0 }, 0.2)
-      .staggerFrom($('.inner'), 0.5, { autoAlpha: 0 }, 0.1);
+      .staggerFrom($('.inner'), 0.3, { autoAlpha: 0 }, 0.1)
+      .staggerFrom($('#outerLeft path'), 0.3, { autoAlpha: 0 }, 0.1);
       // .from($('.inner'), 0.5, { autoAlpha: 0 });
     }
 
@@ -35,7 +34,7 @@
         console.log(data);
         json = data;
 
-        $.each(['outerTop', 'outerBottom', 'outerLeft'], function(index, value) {
+        $.each(['outerBottom'], function(index, value) {
           $('#'+value+' path').each(function(index) {
             $(this).attr('class', value+index);
             $(this).attr('ppl:movie', json[value+index]);
@@ -46,52 +45,33 @@
   }
 
   function bindEventHandlers() {
-    $('#innerLeft, #innerTop, #innerBottom, #outerLeft path, #outerTop path, #outerBottom path')
+    $('#outerLeft path, #outerTop path, #outerBottom path')
       .mouseenter(function(){
         $(this).css('opacity', 0.8);
     });
 
-    $('#innerLeft, #innerTop, #innerBottom, #outerLeft path, #outerTop path, #outerBottom path')
+    $('#outerLeft path, #outerTop path, #outerBottom path')
       .mouseout(function(){
         $(this).css('opacity', 1);
     });
 
-    $('#innerLeft').click(function () {
-      console.log('left clicked');
-      clickSound.playClip();
-      tl.to($('#outerTop path'), 0.2, { autoAlpha: 0 })
-        .to($('#outerBottom path'), 0.2, { autoAlpha: 0 })
-        .staggerTo($('#outerLeft path'), 1, { autoAlpha: 1 }, 0.05);
-    });
-
     $('#outerLeft path').click(function() {
-      blipsSound.playClip();
-      goPlaylist($(this));
-    });
-
-    $('#innerTop').click(function () {
-      console.log('top clicked');
       clickSound.playClip();
       tl.to($('#outerLeft path'), 0.2, { autoAlpha: 0 })
-        .to($('#outerBottom path'), 0.2, { autoAlpha: 0 })
-        .staggerTo($('#outerTop path'), 1, { autoAlpha: 1 }, 0.05);
+        .staggerTo($('#outerTop path'), 1, { autoAlpha: 1 }, 0.05)
+        .to($('#innerLeft'), 0.2, { opacity: 0.8 });
     });
 
     $('#outerTop path').click(function() {
-      blipsSound.playClip();
-      goPlaylist($(this));
-    });
-
-    $('#innerBottom').click(function () {
-      console.log('bottom clicked');
       clickSound.playClip();
       tl.to($('#outerTop path'), 0.2, { autoAlpha: 0 })
-        .to($('#outerLeft path'), 0.2, { autoAlpha: 0 })
-        .staggerTo($('#outerBottom path'), 1, { autoAlpha: 1 }, 0.05);
+        .staggerTo($('#outerBottom path'), 1, { autoAlpha: 1 }, 0.05)
+        .to($('#innerTop'), 0.2, { opacity: 0.8 });
+
     });
 
     $('#outerBottom path').click(function() {
-      blipsSound.playClip();
+      clickSound.playClip();
       goPlaylist($(this));
     });
 
@@ -111,8 +91,12 @@
 
   function goHome() {
     console.log('goHome');
+    if ($('svg').length > 1) {
+      $('svg')[1].remove();
+    }
+
     tl.to($('#playlist'), 0.5, { autoAlpha: 0, onComplete: pauseVideo })
-      .to($('svg'), 0.5, { autoAlpha: 1 });
+      .to($('svg'), 0.5, { autoAlpha: 1, onComplete: main });
   }
 
   function playVideo(el) {
@@ -125,13 +109,17 @@
     $('#playlist video')[0].pause();
   }
 
-  Snap.load('/ppl-pie-menu.svg', function (f) {
-    amendSVGWhilstLoading(f);
-    attachSVGToDOM(f);
-    loadJsonMovies();
-    animateInnerPie();
-    bindEventHandlers();
-  });
+  function main() {
+    Snap.load('/ppl-pie-menu.svg', function (f) {
+      amendSVGWhilstLoading(f);
+      attachSVGToDOM(f);
+      loadJsonMovies();
+      animatePie();
+      bindEventHandlers();
+    });
+  }
+
+  main();
 
 }());
 
