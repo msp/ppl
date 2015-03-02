@@ -2,400 +2,396 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1920px" height="1080px" viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080" xml:space="preserve">
+	 width="1024px" height="768px" viewBox="0 0 1024 768" enable-background="new 0 0 1024 768" xml:space="preserve">
 <g id="xMLID_1_">
 	<g id="piemenugroup">
-
-			<linearGradient id="innerBottom_1_" gradientUnits="userSpaceOnUse" x1="931.5891" y1="750.1738" x2="1218.6981" y2="-48.8436" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+		
+			<linearGradient id="innerBottom_1_" gradientUnits="userSpaceOnUse" x1="481.4021" y1="247.8203" x2="705.3413" y2="-375.397" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 			<stop  offset="0" style="stop-color:#FCBE0C"/>
 			<stop  offset="0" style="stop-color:#FCBE0C"/>
 			<stop  offset="0.48" style="stop-color:#EC7218"/>
 			<stop  offset="0.82" style="stop-color:#E24722"/>
 			<stop  offset="1" style="stop-color:#DE3726"/>
 		</linearGradient>
-		<path id="innerBottom" fill="url(#innerBottom_1_)" d="M1169.85,626.51c0,0-31.319,62.46-68.189,87.04
-			c-38.25,25.51-84.109,36.46-84.819,36.59c-38.62,6.98-69.87,5.37-104.229-7.198c0,0,2.26-9.312,3.319-12.2l33.819-93.7
-			c0.761-2.13,31.601-87.6,31.601-87.6c79.069-14.271,96.84-17.53,202.36-36.592C1191.699,557.07,1187.079,588.47,1169.85,626.51z"
-			/>
-		<path id="bezier7" fill="#FB00D7" d="M1190.53,639.37l-3.891-1.4C1187.869,638.4,1189.159,638.88,1190.53,639.37z"/>
-		<path id="bezier8" fill="#FB00D7" d="M1093.689,244.58l-5.021,13.95C1090.27,254.09,1091.949,249.45,1093.689,244.58z"/>
-		<path id="bezier9" fill="#FB00D7" d="M1087.11,262.88l-2.979,8.31C1085.1,268.5,1086.07,265.74,1087.11,262.88z"/>
-		<path id="bezier10" fill="#FB00D7" d="M1084.14,271.19l-2.811,7.77C1082.22,276.45,1083.17,273.87,1084.14,271.19z"/>
-		<path id="bezier12" fill="#FB00D7" d="M1066.86,319.23l-1.4,3.91C1065.9,321.91,1066.36,320.6,1066.86,319.23z"/>
-		<path id="bezier13" fill="#FB00D7" d="M1065.459,323.14l-1.26,3.47C1064.61,325.53,1065.02,324.36,1065.459,323.14z"/>
-		<path id="bezier14" fill="#FB00D7" d="M1063.61,328.33l-1,2.74C1062.92,330.23,1063.24,329.3,1063.61,328.33z"/>
-
-			<linearGradient id="innerTop_1_" gradientUnits="userSpaceOnUse" x1="838.4729" y1="696.7939" x2="1119.5615" y2="-85.4821" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+		<path id="innerBottom" fill="url(#innerBottom_1_)" d="M667.411,443.017c0,0-24.428,48.719-53.187,67.891
+			c-29.834,19.896-65.604,28.438-66.158,28.539c-30.123,5.444-54.498,4.188-81.297-5.613c0,0,1.763-7.264,2.588-9.516l26.379-73.084
+			c0.593-1.661,24.648-68.327,24.648-68.327c61.673-11.131,75.535-13.673,157.838-28.542
+			C684.453,388.854,680.85,413.346,667.411,443.017z"/>
+		<path id="bezier7" fill="#FB00D7" d="M683.541,453.047l-3.034-1.092C681.466,452.291,682.473,452.665,683.541,453.047z"/>
+		<path id="bezier8" fill="#FB00D7" d="M608.007,145.116l-3.917,10.882C605.34,152.534,606.65,148.915,608.007,145.116z"/>
+		<path id="bezier9" fill="#FB00D7" d="M602.875,159.39l-2.323,6.481C601.308,163.773,602.065,161.621,602.875,159.39z"/>
+		<path id="bezier10" fill="#FB00D7" d="M600.559,165.872l-2.192,6.061C599.062,169.975,599.802,167.962,600.559,165.872z"/>
+		<path id="bezier12" fill="#FB00D7" d="M587.081,203.342l-1.093,3.05C586.331,205.433,586.691,204.411,587.081,203.342z"/>
+		<path id="bezier13" fill="#FB00D7" d="M585.988,206.392l-0.981,2.707C585.325,208.256,585.645,207.344,585.988,206.392z"/>
+		<path id="bezier14" fill="#FB00D7" d="M584.546,210.44l-0.78,2.137C584.008,211.922,584.257,211.197,584.546,210.44z"/>
+		
+			<linearGradient id="innerTop_1_" gradientUnits="userSpaceOnUse" x1="408.7712" y1="206.1855" x2="628.0156" y2="-403.9768" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 			<stop  offset="0" style="stop-color:#FCBE0C"/>
 			<stop  offset="0" style="stop-color:#FCBE0C"/>
 			<stop  offset="0.48" style="stop-color:#EC7218"/>
 			<stop  offset="0.82" style="stop-color:#E24722"/>
 			<stop  offset="1" style="stop-color:#DE3726"/>
 		</linearGradient>
-		<path id="innerTop" fill="url(#innerTop_1_)" d="M979.14,539.46c-73.521-91.6-89.569-108.5-129.739-158.56
-			c27.21-22.38,60.449-35.43,97.58-42.14c0.689-0.12,2.63-0.46,3.329-0.55c39.181-6.69,74.021,1.63,108.66,14.97
-			c39.47,15.2,66.479,38.3,90.931,73.18c17.25,24.55,25.5,47.68,32.71,77.06C1077.079,522.48,979.14,539.46,979.14,539.46z"/>
-
-			<linearGradient id="innerLeft_1_" gradientUnits="userSpaceOnUse" x1="729.9734" y1="676.8906" x2="1015.7534" y2="-118.4594" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+		<path id="innerTop" fill="url(#innerTop_1_)" d="M518.659,375.119c-57.345-71.446-69.861-84.628-101.193-123.675
+			c21.224-17.456,47.147-27.634,76.11-32.868c0.537-0.094,2.052-0.359,2.597-0.429c30.561-5.218,57.734,1.271,84.753,11.676
+			c30.786,11.855,51.853,29.874,70.925,57.08c13.455,19.149,19.89,37.19,25.513,60.105
+			C595.051,361.875,518.659,375.119,518.659,375.119z"/>
+		
+			<linearGradient id="innerLeft_1_" gradientUnits="userSpaceOnUse" x1="324.1428" y1="190.6631" x2="547.0475" y2="-429.6996" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 			<stop  offset="0" style="stop-color:#FCBE0C"/>
 			<stop  offset="0" style="stop-color:#FCBE0C"/>
 			<stop  offset="0.48" style="stop-color:#EC7218"/>
 			<stop  offset="0.82" style="stop-color:#E24722"/>
 			<stop  offset="1" style="stop-color:#DE3726"/>
 		</linearGradient>
-		<path id="innerLeft" fill="url(#innerLeft_1_)" d="M776.329,600.45c-1.71-6.16-5.579-17.92-6.1-24.4
-			c-2.771-34.93-2.75-60.843,7.76-92.03s24.58-60.061,63.201-95.359c40.17,50.06,55.109,66.96,128.63,158.56l-68.75,191.83
-			c-30.5-11.14-52.899-27.688-75.399-51C801.539,663.06,786.01,635.79,776.329,600.45z"/>
-		<path id="bezier19" fill="#FB00D7" d="M967.84,571.5l1.16-3.27C968.64,569.28,968.23,570.36,967.84,571.5z"/>
-		<path id="bezier20" fill="#FB00D7" d="M945.07,634.88l2.239-6.27C946.56,630.65,945.829,632.75,945.07,634.88z"/>
-		<path id="bezier21" fill="#FB00D7" d="M907.5,739.42l3.159-8.79C909.6,733.52,908.57,736.44,907.5,739.42z"/>
-		<path id="bezier25" fill="#FB00D7" d="M775.409,481.96l-0.96-0.34c-0.01-0.04-0.01-0.04,0.021-0.062
-			C774.88,481.73,775.17,481.87,775.409,481.96z"/>
-		<path id="bezier26" fill="#FB00D7" d="M774.47,481.56c-0.029,0.021-0.029,0.021-0.021,0.062l-223.939-83.86
-			c0.021-0.06,0.029-0.14,0.08-0.2C696.19,450.08,764.13,477.37,774.47,481.56z"/>
-		<path id="bezier28" fill="#FB00D7" d="M797.619,716.24l3.86-3.26C800.26,714.05,798.98,715.13,797.619,716.24z"/>
-		<path id="bezier29" fill="#FB00D7" d="M785.289,726.71l5.17-4.36C788.82,723.73,787.09,725.18,785.289,726.71z"/>
-		<path id="bezier30" fill="#FB00D7" d="M776.72,733.96l5.83-4.93C780.67,730.6,778.73,732.26,776.72,733.96z"/>
-		<path id="bezier31" fill="#FB00D7" d="M642.8,847.27c-0.2,0.15-0.38,0.312-0.569,0.48v-0.02L642.8,847.27z"/>
-		<path id="bezier32" fill="#FB00D7" d="M550.59,397.56c-0.051,0.061-0.061,0.141-0.08,0.2l-14.63-5.49
-			C540.869,394.07,545.77,395.83,550.59,397.56z"/>
+		<path id="innerLeft" fill="url(#innerLeft_1_)" d="M360.471,422.69c-1.334-4.806-4.353-13.979-4.759-19.032
+			c-2.161-27.245-2.146-47.457,6.054-71.782c8.197-24.325,19.172-46.846,49.296-74.378c31.332,39.045,42.984,52.228,100.329,123.674
+			l-53.624,149.625c-23.79-8.688-41.261-21.596-58.812-39.78C380.135,471.525,368.022,450.255,360.471,422.69z"/>
+		<path id="bezier19" fill="#FB00D7" d="M509.847,400.109l0.905-2.551C510.47,398.378,510.151,399.22,509.847,400.109z"/>
+		<path id="bezier20" fill="#FB00D7" d="M492.087,449.545l1.745-4.891C493.247,446.246,492.678,447.883,492.087,449.545z"/>
+		<path id="bezier21" fill="#FB00D7" d="M462.782,531.084l2.464-6.856C464.42,526.482,463.617,528.761,462.782,531.084z"/>
+		<path id="bezier25" fill="#FB00D7" d="M359.753,330.27l-0.749-0.265c-0.009-0.031-0.009-0.031,0.016-0.049
+			C359.341,330.091,359.567,330.2,359.753,330.27z"/>
+		<path id="bezier26" fill="#FB00D7" d="M359.021,329.957c-0.022,0.017-0.022,0.017-0.016,0.049l-174.67-65.409
+			c0.017-0.047,0.022-0.11,0.062-0.156C297.964,305.404,350.955,326.689,359.021,329.957z"/>
+		<path id="bezier28" fill="#FB00D7" d="M377.076,513.005l3.012-2.542C379.137,511.296,378.139,512.139,377.076,513.005z"/>
+		<path id="bezier29" fill="#FB00D7" d="M367.46,521.171l4.031-3.401C370.214,518.848,368.864,519.979,367.46,521.171z"/>
+		<path id="bezier30" fill="#FB00D7" d="M360.776,526.826l4.547-3.845C363.857,524.205,362.344,525.5,360.776,526.826z"/>
+		<path id="bezier31" fill="#FB00D7" d="M256.32,615.206c-0.155,0.117-0.297,0.243-0.443,0.375v-0.016L256.32,615.206z"/>
+		<path id="bezier32" fill="#FB00D7" d="M184.398,264.439c-0.04,0.047-0.047,0.11-0.062,0.156l-11.411-4.282
+			C176.816,261.716,180.638,263.089,184.398,264.439z"/>
 		<g id="outerTop">
-
-				<linearGradient id="bezier_1_" gradientUnits="userSpaceOnUse" x1="1064.7844" y1="790.959" x2="1354.0435" y2="-14.0751" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+			
+				<linearGradient id="bezier_1_" gradientUnits="userSpaceOnUse" x1="585.2903" y1="279.6357" x2="810.909" y2="-348.2812" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0.48" style="stop-color:#EC7218"/>
 				<stop  offset="0.82" style="stop-color:#E24722"/>
 				<stop  offset="1" style="stop-color:#DE3726"/>
 			</linearGradient>
-			<path id="bezier" fill="url(#bezier_1_)" d="M1398.159,464.43c-96.109,17.352-161.612,29.621-210.602,38.47
-				c-5.681-31.48-17.148-55.698-34.408-80.259c13.851-11.72,61.319-45.101,167.42-134.881
-				C1360.561,340.99,1385.53,394.42,1398.159,464.43z"/>
-
-				<linearGradient id="bezier4_1_" gradientUnits="userSpaceOnUse" x1="948.1057" y1="740.0146" x2="1235.5062" y2="-59.8389" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+			<path id="bezier" fill="url(#bezier_1_)" d="M845.489,316.596c-74.964,13.535-126.055,23.104-164.266,30.007
+				c-4.432-24.554-13.376-43.443-26.837-62.601c10.803-9.141,47.827-35.178,130.585-105.206
+				C816.162,220.315,835.64,261.99,845.489,316.596z"/>
+			
+				<linearGradient id="bezier4_1_" gradientUnits="userSpaceOnUse" x1="494.2849" y1="239.8931" x2="718.4509" y2="-383.9752" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0.48" style="stop-color:#EC7218"/>
 				<stop  offset="0.82" style="stop-color:#E24722"/>
 				<stop  offset="1" style="stop-color:#DE3726"/>
 			</linearGradient>
-			<path id="bezier4" fill="url(#bezier4_1_)" d="M1135.02,143.45c73.791,30.1,131.381,72.63,179.511,136.7
-				c-106.101,89.77-154.411,121.507-168.261,133.227c-24.449-34.88-47.301-47.949-86.459-65.276l6.15-12.48l1-2.74l0.59-1.72
-				l1.261-3.47l1.399-3.91l14.47-40.27l2.811-7.77l2.97-8.32l1.561-4.34l5.021-13.95L1135.02,143.45z"/>
-
-				<linearGradient id="bezier5_1_" gradientUnits="userSpaceOnUse" x1="731.4163" y1="680.6416" x2="1025.4841" y2="-137.7721" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+			<path id="bezier4" fill="url(#bezier4_1_)" d="M640.244,66.237c57.557,23.477,102.477,56.65,140.017,106.624
+				c-82.757,70.019-120.438,94.773-131.241,103.915c-19.07-27.205-36.895-37.399-67.438-50.914l4.798-9.735l0.779-2.137l0.46-1.342
+				l0.984-2.707l1.091-3.049l11.286-31.411l2.193-6.06l2.315-6.49l1.219-3.385l3.917-10.881L640.244,66.237z"/>
+			
+				<linearGradient id="bezier5_1_" gradientUnits="userSpaceOnUse" x1="325.2683" y1="193.5918" x2="554.6379" y2="-444.7618" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0.48" style="stop-color:#EC7218"/>
 				<stop  offset="0.82" style="stop-color:#E24722"/>
 				<stop  offset="1" style="stop-color:#DE3726"/>
 			</linearGradient>
-			<path id="bezier5" fill="url(#bezier5_1_)" d="M1126.53,137.62l-76.471,209.655c-44.771-18.39-101.991-13.403-101.991-13.403
-				s-8.958-49.592-40.119-222.252C988.27,99.9,1056.5,111.09,1126.53,137.62z"/>
-
-				<linearGradient id="bezier16_1_" gradientUnits="userSpaceOnUse" x1="602.3577" y1="626.3652" x2="892.4" y2="-180.844" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+			<path id="bezier5" fill="url(#bezier5_1_)" d="M633.622,61.689l-59.646,163.528c-34.92-14.344-79.551-10.455-79.551-10.455
+				s-6.986-38.681-31.292-173.353C525.781,32.269,579,40.996,633.622,61.689z"/>
+			
+				<linearGradient id="bezier16_1_" gradientUnits="userSpaceOnUse" x1="224.6057" y1="151.2505" x2="450.8332" y2="-478.3576" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0.48" style="stop-color:#EC7218"/>
 				<stop  offset="0.82" style="stop-color:#E24722"/>
 				<stop  offset="1" style="stop-color:#DE3726"/>
 			</linearGradient>
-			<path id="bezier16" fill="url(#bezier16_1_)" d="M895.21,112.68c31.17,172.66,41.043,224.882,40.353,225.002
-				c-37.13,6.7-61.451,17.533-88.661,39.903c-28.771-35.84-68.883-85.495-146.933-182.675c56.771-40.32,114.069-66.84,185.53-81.44
-				C890.47,112.45,890.21,113.39,895.21,112.68z"/>
+			<path id="bezier16" fill="url(#bezier16_1_)" d="M453.196,42.237c24.312,134.672,32.014,175.404,31.476,175.498
+				c-28.961,5.226-47.932,13.675-69.154,31.124c-22.441-27.955-53.729-66.685-114.605-142.483
+				c44.28-31.449,88.972-52.135,144.71-63.522C449.498,42.057,449.296,42.791,453.196,42.237z"/>
 		</g>
 		<g id="outerLeft">
-
-				<linearGradient id="bezier22_1_" gradientUnits="userSpaceOnUse" x1="725.9587" y1="690.7529" x2="1015.858" y2="-116.0654" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+			
+				<linearGradient id="bezier22_1_" gradientUnits="userSpaceOnUse" x1="321.012" y1="201.4746" x2="547.1287" y2="-427.8305" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0.48" style="stop-color:#EC7218"/>
 				<stop  offset="0.82" style="stop-color:#E24722"/>
 				<stop  offset="1" style="stop-color:#DE3726"/>
 			</linearGradient>
-			<path id="bezier22" fill="url(#bezier22_1_)" d="M898.75,749.03l-77.07,215.12c-69.851-26.61-123.08-59.32-174.641-112
-				c0.19-0.17-0.75-0.96-0.55-1.102l141.37-119.76c1.8-1.53,37.149-30.49,37.149-30.49C847.5,724.1,868.24,737.89,898.75,749.03z"/>
-
-				<linearGradient id="bezier23_1_" gradientUnits="userSpaceOnUse" x1="535.7034" y1="595.6016" x2="820.2452" y2="-196.2836" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+			<path id="bezier22" fill="url(#bezier22_1_)" d="M455.957,538.581l-60.113,167.791c-54.482-20.756-96.001-46.269-136.217-87.358
+				c0.146-0.133-0.585-0.749-0.429-0.858l110.267-93.411c1.403-1.193,28.976-23.783,28.976-23.783
+				C415.983,519.135,432.16,529.891,455.957,538.581z"/>
+			
+				<linearGradient id="bezier23_1_" gradientUnits="userSpaceOnUse" x1="172.6145" y1="127.2603" x2="394.554" y2="-490.4023" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0.48" style="stop-color:#EC7218"/>
 				<stop  offset="0.82" style="stop-color:#E24722"/>
 				<stop  offset="1" style="stop-color:#DE3726"/>
 			</linearGradient>
-			<path id="bezier23" fill="url(#bezier23_1_)" d="M839.272,383.729c-32.109,26.38-54.722,51.602-67.142,91.312
-				c-10.341-4.19-73.511-29.18-219.11-81.71c30.771-77.99,72.341-139.66,139-190.99C770.06,299.51,810.502,347.879,839.272,383.729z
-				"/>
-
-				<linearGradient id="bezier24_1_" gradientUnits="userSpaceOnUse" x1="602.7771" y1="639.6348" x2="888.4782" y2="-155.4882" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+			<path id="bezier23" fill="url(#bezier23_1_)" d="M409.565,253.651c-25.044,20.576-42.682,40.249-52.37,71.222
+				c-8.065-3.268-57.337-22.76-170.902-63.732c24.001-60.832,56.425-108.934,108.418-148.97
+				C355.58,187.961,387.125,225.688,409.565,253.651z"/>
+			
+				<linearGradient id="bezier24_1_" gradientUnits="userSpaceOnUse" x1="224.9324" y1="161.6035" x2="447.7753" y2="-458.5813" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0.48" style="stop-color:#EC7218"/>
 				<stop  offset="0.82" style="stop-color:#E24722"/>
 				<stop  offset="1" style="stop-color:#DE3726"/>
 			</linearGradient>
-			<path id="bezier24" fill="url(#bezier24_1_)" d="M816.69,692.02l0.529,1.592l-22.811,17.51L639.49,841.64
-				c-51.471-55.33-84.2-114.12-101.859-192.59c137.979-24.91,222.83-39.229,231.84-40.85
-				C779.159,643.54,793.35,666.56,816.69,692.02z"/>
-
-				<linearGradient id="bezier27_1_" gradientUnits="userSpaceOnUse" x1="532.9773" y1="609.3838" x2="820.3071" y2="-190.2963" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+			<path id="bezier24" fill="url(#bezier24_1_)" d="M391.951,494.113l0.412,1.242l-17.792,13.657L253.739,610.814
+				c-40.146-43.157-65.675-89.013-79.448-150.218c107.622-19.43,173.804-30.598,180.831-31.861
+				C362.679,456.299,373.746,474.254,391.951,494.113z"/>
+			
+				<linearGradient id="bezier27_1_" gradientUnits="userSpaceOnUse" x1="170.4875" y1="138.0078" x2="394.6013" y2="-485.7327" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0.48" style="stop-color:#EC7218"/>
 				<stop  offset="0.82" style="stop-color:#E24722"/>
 				<stop  offset="1" style="stop-color:#DE3726"/>
 			</linearGradient>
-			<path id="bezier27" fill="url(#bezier27_1_)" d="M549.829,402.35l218.58,82.23c-18.029,46.689-3.3,106.85-1.59,113.01
-				c-9.011,1.62-94.391,17.53-232.37,42.44c-1.431-6.24-1.891-7.771-3.04-14.142C517.1,546.6,524.25,473.01,549.829,402.35z"/>
+			<path id="bezier27" fill="url(#bezier27_1_)" d="M183.804,268.175l170.49,64.138c-14.063,36.417-2.574,83.341-1.241,88.146
+				c-7.029,1.264-73.624,13.673-181.245,33.103c-1.117-4.866-1.475-6.062-2.371-11.03
+				C158.275,380.688,163.853,323.289,183.804,268.175z"/>
 		</g>
 		<g id="outerBottom">
-
-				<linearGradient id="bezier2_1_" gradientUnits="userSpaceOnUse" x1="1123.5012" y1="810.1309" x2="1409.7448" y2="13.5171" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+			
+				<linearGradient id="bezier2_1_" gradientUnits="userSpaceOnUse" x1="631.0891" y1="294.5864" x2="854.3541" y2="-326.7585" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0.48" style="stop-color:#EC7218"/>
 				<stop  offset="0.82" style="stop-color:#E24722"/>
 				<stop  offset="1" style="stop-color:#DE3726"/>
 			</linearGradient>
-			<path id="bezier2" fill="url(#bezier2_1_)" d="M1187.558,512.85c49-8.84,116.481-21.52,212.592-38.868
-				c14.939,82.72,5.569,153.778-22.681,226.8v0.398l-207.619-74.67C1187.08,588.47,1195.538,557.069,1187.558,512.85z"/>
-
-				<linearGradient id="bezier3_1_" gradientUnits="userSpaceOnUse" x1="1120.0002" y1="816.4053" x2="1404.2888" y2="25.249" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+			<path id="bezier2" fill="url(#bezier2_1_)" d="M681.223,354.363c38.22-6.895,90.854-16.785,165.818-30.316
+				c11.652,64.52,4.345,119.944-17.69,176.9v0.31l-161.939-58.241C680.851,413.346,687.448,388.854,681.223,354.363z"/>
+			
+				<linearGradient id="bezier3_1_" gradientUnits="userSpaceOnUse" x1="628.3577" y1="299.4824" x2="850.0995" y2="-317.6104" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0.48" style="stop-color:#EC7218"/>
 				<stop  offset="0.82" style="stop-color:#E24722"/>
 				<stop  offset="1" style="stop-color:#DE3726"/>
 			</linearGradient>
-			<path id="bezier3" fill="url(#bezier3_1_)" d="M1188.209,643.7l186.479,67.03c-27.239,70.3-66.85,121.76-124.55,172.3
-				c-95.079-112.36-74.569-87.4-139.659-164.341c13.991-10.147,50.876-49.557,64.459-79.579l9.381,3.188L1188.209,643.7z"/>
-
-				<linearGradient id="bezier11_1_" gradientUnits="userSpaceOnUse" x1="1054.5198" y1="802.1738" x2="1340.4791" y2="6.3253" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+			<path id="bezier3" fill="url(#bezier3_1_)" d="M681.731,456.424l145.451,52.283c-21.245,54.833-52.144,94.971-97.147,134.391
+				c-74.161-87.64-58.163-68.171-108.933-128.183c10.913-7.916,39.683-38.655,50.277-62.071l7.317,2.486L681.731,456.424z"/>
+			
+				<linearGradient id="bezier11_1_" gradientUnits="userSpaceOnUse" x1="577.2834" y1="288.3818" x2="800.3279" y2="-332.3694" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0.48" style="stop-color:#EC7218"/>
 				<stop  offset="0.82" style="stop-color:#E24722"/>
 				<stop  offset="1" style="stop-color:#DE3726"/>
 			</linearGradient>
-			<path id="bezier11" fill="url(#bezier11_1_)" d="M1102.77,725.19c65.091,76.938,43.931,51.85,139.021,164.198
-				c-52.86,43.852-106.461,71.562-177.83,86.95c-31.08-172.18-39.36-215.67-39.36-215.67l-1.109-1.66
-				C1055.28,752.97,1071.28,744.075,1102.77,725.19z"/>
-
-				<linearGradient id="bezier15_1_" gradientUnits="userSpaceOnUse" x1="931.5457" y1="763.8066" x2="1226.1846" y2="-56.1683" gradientTransform="matrix(1 0 0 1 0.1401 239.0547)">
+			<path id="bezier11" fill="url(#bezier11_1_)" d="M615.09,519.986c50.771,60.01,34.266,40.441,108.434,128.071
+				c-41.229,34.204-83.037,55.817-138.705,67.82c-24.242-134.298-30.699-168.22-30.699-168.22l-0.865-1.295
+				C578.049,541.653,590.529,534.715,615.09,519.986z"/>
+			
+				<linearGradient id="bezier15_1_" gradientUnits="userSpaceOnUse" x1="481.366" y1="258.4551" x2="711.1787" y2="-381.1102" gradientTransform="matrix(1 0 0 1 0.2803 478.1094)">
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0" style="stop-color:#FCBE0C"/>
 				<stop  offset="0.48" style="stop-color:#EC7218"/>
 				<stop  offset="0.82" style="stop-color:#E24722"/>
 				<stop  offset="1" style="stop-color:#DE3726"/>
 			</linearGradient>
-			<path id="bezier15" fill="url(#bezier15_1_)" d="M1053.981,978.559c-4.939,1.092-9.92,2.062-14.91,2.972
-				c-75.431,13.608-139.5,8.09-207.41-14.61l77.419-217.185c34.37,12.568,61.92,15.702,100.54,8.732
-				c0.71-0.132,1.711-3.378,2.4-3.526C1012.02,754.941,1022.901,806.38,1053.981,978.559z"/>
+			<path id="bezier15" fill="url(#bezier15_1_)" d="M577.034,717.609c-3.852,0.852-7.736,1.607-11.628,2.317
+				c-58.836,10.613-108.808,6.312-161.776-11.396l60.385-169.4c26.808,9.802,48.297,12.248,78.42,6.811
+				c0.554-0.104,1.334-2.636,1.872-2.749C544.306,543.191,552.794,583.312,577.034,717.609z"/>
 		</g>
 	</g>
 	<g id="group3">
-		<path id="bezier33" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M550.59,397.56
-			c28.601-78.879,79.3-148.419,145.96-199.75c54.09-41.7,118.71-71.38,190.54-84.34c5-0.9,10-1.729,15.01-2.438
-			c80.32-11.72,159.07-0.88,229.57,27.87c73.79,30.1,138.59,79.83,186.71,143.9c39.989,53.23,68.5,116.36,81.14,186.37
-			c14.931,82.72,6.99,158.59-21.25,231.62"/>
-		<path id="bezier34" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M642.23,847.73
-			c-51.47-55.33-89.31-124.45-106.96-202.921c-1.43-6.229-2.71-12.55-3.859-18.92c-14.311-79.29-6.479-157.47,19.101-228.13"/>
-		<path id="bezier35" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M1377.01,706.4
-			c-27.24,70.3-72.141,132.8-130.271,180.979c-52.859,43.852-116.649,75.852-188.01,91.24c-4.94,1.1-9.92,2.07-14.92,2.979
-			c-75.421,13.61-149.86,7.182-217.761-15.52C755.8,942.6,692.53,901.77,642.23,847.75"/>
-		<path id="bezier36" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M774.47,481.56
-			c12.42-39.71,36.3-75.079,68.41-101.458c27.199-22.37,60.359-38.29,97.479-45c0.689-0.12,1.409-0.25,2.1-0.35
-			c39.181-6.69,77.721-2.24,112.37,11.1c39.471,15.2,73.87,41.9,98.32,76.79c17.26,24.552,29.569,53.17,35.25,84.642
-			c7.979,44.22,1.729,87.7-15.5,125.739"/>
-		<path id="bezier37" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1172.909,633.05
-			c-15.26,33.73-39.141,63.2-69.359,85.11c-24.601,17.858-53.42,30.71-85.21,36.75c-0.689,0.16-1.4,0.28-2.12,0.41
-			c-38.609,6.97-76.67,3.09-111.029-9.48c-30.5-11.14-58.11-29.109-80.61-52.42c-24.13-24.979-42.409-56.09-52.09-91.43
-			c-1.71-6.16-3.149-12.45-4.3-18.852c-6.341-35.09-3.721-69.71,6.26-101.52"/>
-		<path id="bezier38" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M479.579,654.87
-			c19.32-3.49,37.9-6.852,55.689-10.062C673.25,619.9,763.48,603.61,772.49,601.99c0.5-0.09,0.74-0.142,0.74-0.142"/>
-		<path id="bezier39" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M535.88,392.27
-			c4.989,1.8,9.89,3.56,14.71,5.29c145.601,52.521,213.54,79.811,223.88,84c0.41,0.172,0.71,0.312,0.939,0.4"/>
-		<path id="bezier40" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M775.409,481.96l0.471,0.19"/>
-		<path id="bezier41" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M688.27,187.46
-			c2.811,3.5,5.591,6.95,8.28,10.35c78.05,97.17,117.56,146.44,146.33,182.29c40.17,50.06,59.359,73.97,132.88,165.57"/>
-		<path id="bezier42" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M901.06,105.32
-			c0.351,1.9,0.69,3.81,1.04,5.71c31.16,172.66,39.99,221.58,39.99,221.58"/>
-		<path id="bezier43" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1063.61,328.33
-			c-0.359,0.96-0.689,1.9-1,2.74"/>
-		<path id="bezier44" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1066.86,319.23
-			c-0.5,1.37-0.96,2.68-1.4,3.91c-0.439,1.22-0.85,2.39-1.26,3.47"/>
-		<path id="bezier45" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1087.11,262.88
-			c-1.04,2.86-2.011,5.62-2.979,8.31c-0.96,2.68-1.91,5.26-2.801,7.77"/>
-		<path id="bezier46" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1093.689,244.58
-			c-1.739,4.87-3.42,9.51-5.021,13.95"/>
-		<path id="bezier47" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1137.079,123.84l-5.409,15.06"/>
-		<path id="bezier48" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1093.689,244.58l37.979-105.68"
+		<path id="bezier33" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M184.398,264.439
+			c22.31-61.524,61.854-115.765,113.847-155.802c42.188-32.525,92.592-55.675,148.618-65.784c3.9-0.702,7.8-1.348,11.708-1.901
+			c62.648-9.142,124.073-0.687,179.062,21.738c57.555,23.478,108.098,62.266,145.631,112.239
+			c31.19,41.521,53.428,90.76,63.288,145.366c11.646,64.52,5.452,123.698-16.575,180.661"/>
+		<path id="bezier34" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M255.876,615.565
+			c-40.146-43.156-69.661-97.07-83.429-158.276c-1.115-4.858-2.113-9.789-3.01-14.757c-11.163-61.845-5.054-122.824,14.898-177.938"
 			/>
-		<path id="bezier49" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1087.11,262.88l1.561-4.35"/>
-		<path id="bezier50" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1066.86,319.23l14.47-40.27"/>
-		<path id="bezier51" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1063.61,328.33l0.59-1.72"/>
-		<path id="bezier52" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1058.98,341.2l3.63-10.13"/>
-		<path id="bezier53" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1324.47,277.66
-			c-2.061,1.74-4.09,3.47-6.09,5.14c-95.71,80.99-140.99,114.54-165.229,135.061c-3.49,2.92,0,4.779,0,4.779"/>
-		<path id="bezier54" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M976.18,545.6
-			c0.34-0.068,0.689-0.13,1.04-0.188c79.069-14.28,105.66-19.08,211.181-38.13c49-8.84,115-20.762,211.119-38.11
-			c6.57-1.188,13.291-2.4,20.141-3.64"/>
-		<path id="bezier55" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1190.53,639.37
-			c-1.37-0.49-2.66-0.97-3.891-1.4"/>
-		<path id="bezier56" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1385.939,709.59l-8.909-3.188"/>
-		<path id="bezier57" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1190.53,639.37l186.479,67.03
-			h0.021"/>
-		<path id="bezier58" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1168.579,631.48l4.32,1.538
-			l0.01,0.03l2.49-7.1"/>
-		<path id="bezier59" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1252.74,894.48
-			c-2.051-2.41-4.061-4.78-6-7.102c-95.09-112.35-78.09-92.27-143.189-169.22"/>
-		<path id="bezier60" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M1074.32,1065
-			c-5.729-31.689-10.91-60.42-15.59-86.37c-31.091-172.18-40.391-223.688-40.391-223.688"/>
-		<path id="bezier61" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M967.84,571.5
-			c0.391-1.14,0.8-2.22,1.16-3.27"/>
-		<path id="bezier62" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M945.07,634.88
-			c0.76-2.13,1.489-4.229,2.239-6.27"/>
-		<path id="bezier63" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M907.5,739.42
-			c1.069-2.979,2.1-5.9,3.159-8.79"/>
-		<path id="bezier64" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M907.5,739.42l-2.311,6.42
-			l-79.14,220.24l-1.351,3.74"/>
-		<path id="bezier65" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M945.07,634.88l-34.41,95.75"/>
-		<path id="bezier66" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M967.84,571.5l-20.53,57.11"/>
-		<path id="bezier67" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M979.4,539.28l-2.181,6.13
-			L969,568.23"/>
-		<path id="bezier68" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M797.619,716.24
-			c1.36-1.11,2.641-2.19,3.86-3.26"/>
-		<path id="bezier69" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M785.289,726.71
-			c1.801-1.53,3.53-2.979,5.17-4.36"/>
-		<path id="bezier70" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M776.72,733.96
-			c2.011-1.7,3.95-3.36,5.83-4.93"/>
-		<path id="bezier71" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M642.23,847.75
-			c0.18-0.17,0.369-0.34,0.569-0.48"/>
-		<path id="bezier72" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M642.23,847.75l-6.25,5.28"/>
-		<path id="bezier73" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M776.72,733.96L642.8,847.27"/>
-		<path id="bezier74" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M785.289,726.71l-2.739,2.32"/>
-		<path id="bezier75" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M797.619,716.24l-7.159,6.108"/>
-		<path id="bezier76" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M824.38,693.62l-22.899,19.36"/>
+		<path id="bezier35" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M828.993,505.33
+			c-21.247,54.832-56.269,103.582-101.608,141.16c-41.23,34.204-90.985,59.164-146.646,71.166
+			c-3.853,0.857-7.737,1.615-11.638,2.322c-58.827,10.616-116.888,5.604-169.851-12.104
+			c-54.793-18.312-104.143-50.16-143.375-92.294"/>
+		<path id="bezier36" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M359.021,329.957
+			c9.688-30.973,28.313-58.56,53.359-79.135c21.215-17.449,47.08-29.866,76.032-35.1c0.537-0.094,1.1-0.195,1.639-0.273
+			c30.56-5.218,60.621-1.747,87.646,8.658c30.787,11.855,57.618,32.681,76.688,59.895c13.462,19.151,23.062,41.473,27.495,66.02
+			c6.224,34.492,1.349,68.405-12.091,98.075"/>
+		<path id="bezier37" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M669.798,448.117
+			c-11.902,26.31-30.53,49.295-54.101,66.385c-19.188,13.929-41.667,23.954-66.462,28.665c-0.537,0.124-1.092,0.218-1.653,0.319
+			c-30.114,5.437-59.802,2.409-86.601-7.395c-23.79-8.688-45.325-22.705-62.875-40.887c-18.821-19.483-33.079-43.75-40.629-71.314
+			c-1.334-4.805-2.457-9.711-3.354-14.705c-4.945-27.37-2.901-54.373,4.883-79.184"/>
+		<path id="bezier38" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M129.01,465.137
+			c15.07-2.722,29.561-5.345,43.436-7.849c107.624-19.427,178.003-32.133,185.031-33.396c0.39-0.069,0.577-0.11,0.577-0.11"/>
+		<path id="bezier39" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M172.924,260.312
+			c3.892,1.404,7.714,2.777,11.474,4.126c113.567,40.966,166.558,62.251,174.623,65.518c0.32,0.135,0.554,0.244,0.733,0.312"/>
+		<path id="bezier40" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M359.753,330.27l0.366,0.148"/>
+		<path id="bezier41" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M291.786,100.564
+			c2.192,2.729,4.36,5.421,6.458,8.073c60.876,75.791,91.695,114.221,114.135,142.184c31.332,39.046,46.3,57.696,103.645,129.142"/>
+		<path id="bezier42" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M457.759,36.496
+			c0.273,1.482,0.539,2.972,0.812,4.454c24.305,134.672,31.191,172.829,31.191,172.829"/>
+		<path id="bezier43" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M584.546,210.44
+			c-0.28,0.749-0.537,1.482-0.78,2.137"/>
+		<path id="bezier44" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M587.081,203.342
+			c-0.39,1.069-0.75,2.09-1.093,3.05c-0.342,0.952-0.663,1.865-0.981,2.707"/>
+		<path id="bezier45" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M602.875,159.39
+			c-0.811,2.231-1.568,4.383-2.323,6.481c-0.749,2.091-1.49,4.104-2.186,6.061"/>
+		<path id="bezier46" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M608.007,145.116
+			c-1.356,3.799-2.668,7.418-3.917,10.882"/>
+		<path id="bezier47" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M641.851,50.941l-4.219,11.747"/>
+		<path id="bezier48" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M608.007,145.116l29.623-82.429"
+			/>
+		<path id="bezier49" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M602.875,159.39l1.218-3.392"/>
+		<path id="bezier50" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M587.081,203.342l11.286-31.41"/>
+		<path id="bezier51" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M584.546,210.44l0.46-1.342"/>
+		<path id="bezier52" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M580.935,220.479l2.831-7.901"/>
+		<path id="bezier53" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M788.012,170.918
+			c-1.607,1.357-3.189,2.707-4.749,4.009c-74.652,63.171-109.97,89.339-128.876,105.345c-2.723,2.278,0,3.728,0,3.728"/>
+		<path id="bezier54" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M516.352,379.907
+			c0.265-0.052,0.538-0.101,0.812-0.146c61.674-11.138,82.413-14.882,164.719-29.741c38.219-6.895,89.697-16.195,164.669-29.726
+			c5.125-0.926,10.367-1.872,15.71-2.839"/>
+		<path id="bezier55" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M683.541,453.047
+			c-1.067-0.382-2.074-0.756-3.034-1.092"/>
+		<path id="bezier56" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M835.957,507.817l-6.949-2.486"/>
+		<path id="bezier57" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M683.541,453.047l145.451,52.283
+			h0.017"/>
+		<path id="bezier58" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M666.42,446.893l3.368,1.199
+			l0.01,0.023l1.941-5.538"/>
+		<path id="bezier59" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M732.064,652.029
+			c-1.6-1.88-3.168-3.729-4.68-5.54c-74.168-87.631-60.909-71.97-111.687-131.988"/>
+		<path id="bezier60" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M582.5,725.5
+			c-4.469-24.717,1.89,12.405-1.761-7.835c-24.251-134.298-31.505-174.473-31.505-174.473"/>
+		<path id="bezier61" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M509.847,400.109
+			c0.306-0.89,0.624-1.731,0.905-2.551"/>
+		<path id="bezier62" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M492.087,449.545
+			c0.592-1.662,1.16-3.298,1.745-4.891"/>
+		<path id="bezier63" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M462.782,531.084
+			c0.834-2.323,1.638-4.602,2.464-6.856"/>
+		<path id="bezier64" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M462.782,531.084l-1.803,5.008
+			L399.25,707.876l-1.053,2.918"/>
+		<path id="bezier65" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M492.087,449.545l-26.84,74.684"
+			/>
+		<path id="bezier66" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M509.847,400.109l-16.013,44.545"
+			/>
+		<path id="bezier67" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M518.864,374.979l-1.702,4.781
+			l-6.411,17.799"/>
+		<path id="bezier68" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M377.076,513.005
+			c1.062-0.866,2.061-1.708,3.012-2.542"/>
+		<path id="bezier69" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M367.46,521.171
+			c1.403-1.192,2.753-2.323,4.031-3.401"/>
+		<path id="bezier70" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M360.776,526.826
+			c1.568-1.326,3.081-2.621,4.547-3.845"/>
+		<path id="bezier71" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M255.876,615.581
+			c0.14-0.134,0.287-0.266,0.442-0.375"/>
+		<path id="bezier72" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M255.876,615.581l-4.875,4.117"/>
+		<path id="bezier73" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M360.776,526.826l-104.456,88.38"
+			/>
+		<path id="bezier74" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M367.46,521.171l-2.138,1.811"/>
+		<path id="bezier75" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M377.076,513.005l-5.584,4.764"/>
+		<path id="bezier76" fill="none" stroke="#FFFFFF" stroke-width="6.3" stroke-miterlimit="10" d="M397.949,495.362l-17.859,15.101"
+			/>
 	</g>
 </g>
-<path id="bezier77" fill="none" d="M729.99,537.46h272.97v89.73H729.99V537.46z"/>
-<rect id="rectangle" x="790.18" y="530.98" fill="none" width="229.189" height="57.3"/>
-<text transform="matrix(1 0 0 1 790.1799 530.9805)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">         </text>
-<text class="inner" transform="matrix(1 0 0 1 790.1799 556.9805)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">CUSTOMER</text>
-<text transform="matrix(1 0 0 1 936.8992 556.9805)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">     </text>
-<rect id="rectangle2" x="801.65" y="565.36" fill="none" width="257.84" height="57.3"/>
-<text transform="matrix(1 0 0 1 801.6497 565.3604)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">         </text>
-<text class="inner" transform="matrix(1 0 0 1 801.6497 591.3604)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">LIFESTYLE</text>
-<text transform="matrix(1 0 0 1 926.7278 591.3604)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">     </text>
-<path id="bezier78" fill="none" d="M906.59,400.55h239.68v74.95H906.59V400.55z"/>
-<rect id="rectangle3" x="980.98" y="394.07" fill="none" width="143.25" height="57.3"/>
-<text transform="matrix(1 0 0 1 980.9807 394.0703)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">         </text>
-<text class="inner" transform="matrix(1 0 0 1 980.9807 420.0703)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">VENUE</text>
-<text transform="matrix(1 0 0 1 1069.5881 420.0703)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">     </text>
-<rect id="rectangle4" x="933.449" y="428.45" fill="none" width="315.141" height="57.3"/>
-<text transform="matrix(1 0 0 1 933.45 428.4502)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">         </text>
-<text class="inner" transform="matrix(1 0 0 1 933.45 454.4502)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">PERSONALITY</text>
-<text transform="matrix(1 0 0 1 1113.6877 454.4502)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">     </text>
-<path id="bezier79" fill="none" d="M908.82,598.67h297.3v124.79h-297.3V598.67z"/>
-<rect id="rectangle5" x="1012.02" y="592.19" fill="none" width="143.25" height="57.3"/>
-<text transform="matrix(1 0 0 1 1012.0198 592.1904)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">         </text>
-<text class="inner" transform="matrix(1 0 0 1 1012.0198 618.1904)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">VENUE</text>
-<text transform="matrix(1 0 0 1 1100.6272 618.1904)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">     </text>
-<rect id="rectangle6" x="992.21" y="626.57" fill="none" width="229.189" height="57.3"/>
-<text transform="matrix(1 0 0 1 992.2092 626.5703)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">         </text>
-<text class="inner" transform="matrix(1 0 0 1 992.2092 652.5703)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">INTERIOR</text>
-<text transform="matrix(1 0 0 1 1118.7288 652.5703)" fill="#FFFFFF" font-family="'GillSans'" font-size="28.65">     </text>
-<path id="bezier80" fill="none" d="M606.119,326.17h195.7V429h-195.7V326.17z"/>
-<rect id="rectangle7" x="679.369" y="321.36" fill="none" width="133.7" height="44.57"/>
-<text transform="matrix(1 0 0 1 679.3699 321.3604)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 679.3699 341.3604)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">CITY  </text>
-<text transform="matrix(1 0 0 1 740.0085 341.3604)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<rect id="rectangle8" x="626.119" y="348.1" fill="none" width="267.391" height="44.57"/>
-<text transform="matrix(1 0 0 1 626.1199 348.0996)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 626.1199 368.0996)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">PROFESSIONAL</text>
-<text transform="matrix(1 0 0 1 777.032 368.0996)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<path id="bezier81" fill="none" d="M496.86,526.57h262.33v28.14H496.86V526.57z"/>
-<rect id="rectangle9" x="592.11" y="521.76" fill="none" width="111.409" height="44.57"/>
-<text transform="matrix(1 0 0 1 592.1096 521.7598)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 592.1096 541.7598)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">OLDER</text>
-<text transform="matrix(1 0 0 1 662.6814 541.7598)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<path id="bezier82" fill="none" d="M570.56,697.01h187.85v62.062H570.56V697.01z"/>
-<rect id="rectangle10" x="625.119" y="692.19" fill="none" width="133.7" height="44.568"/>
-<text transform="matrix(1 0 0 1 625.1199 692.1904)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 625.1199 712.1904)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">YUMMY </text>
-<text transform="matrix(1 0 0 1 708.7893 712.1904)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<rect id="rectangle11" x="623.15" y="718.93" fill="none" width="111.41" height="44.57"/>
-<text transform="matrix(1 0 0 1 623.1497 718.9297)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 623.1497 738.9297)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">MUMMY</text>
-<text transform="matrix(1 0 0 1 704.5676 738.9297)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<path id="bezier83" fill="none" d="M644.42,808.02h270.6V923.95h-270.6V808.02L644.42,808.02z"/>
-<rect id="rectangle12" x="740.07" y="803.2" fill="none" width="133.699" height="44.569"/>
-<text transform="matrix(1 0 0 1 740.0696 803.2002)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 740.0696 823.2002)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">SKATER</text>
-<text transform="matrix(1 0 0 1 815.5696 823.2002)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<rect id="rectangle13" x="741.69" y="829.94" fill="none" width="133.699" height="44.568"/>
-<text transform="matrix(1 0 0 1 741.6897 829.9404)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 741.6897 849.9404)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">SURFER</text>
-<text transform="matrix(1 0 0 1 816.1775 849.9404)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<rect id="rectangle14" x="752.56" y="856.68" fill="none" width="89.131" height="44.57"/>
-<text transform="matrix(1 0 0 1 752.5598 856.6797)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 752.5598 876.6797)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">GEEK</text>
-<text transform="matrix(1 0 0 1 805.9426 876.6797)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<rect id="rectangle15" x="731.88" y="211.18" fill="none" width="181.8" height="30.29"/>
-<rect id="rectangle16" x="745.57" y="206.36" fill="none" width="245.109" height="44.57"/>
-<text transform="matrix(1 0 0 1 745.5696 206.3604)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 745.5696 226.3604)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">COUNTRYSIDE</text>
-<text transform="matrix(1 0 0 1 894.1755 226.3604)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<path id="bezier84" fill="none" d="M883.079,193.08h256.261v39.6H883.079V193.08z"/>
-<rect id="rectangle17" x="953.93" y="188.26" fill="none" width="200.54" height="44.57"/>
-<text transform="matrix(1 0 0 1 953.9299 188.2598)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 953.9299 208.2598)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">LAID BACK</text>
-<text transform="matrix(1 0 0 1 1065.5256 208.2598)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<path id="bezier85" fill="none" d="M1092.659,246.85h174.971v102.5h-174.971V246.85z"/>
-<rect id="rectangle18" x="1142.5" y="242.03" fill="none" width="133.699" height="44.57"/>
-<text transform="matrix(1 0 0 1 1142.5002 242.0303)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 1142.5002 262.0303)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">URBAN </text>
-<text transform="matrix(1 0 0 1 1223.1663 262.0303)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<rect id="rectangle19" x="1116.77" y="268.77" fill="none" width="222.83" height="44.57"/>
-<text transform="matrix(1 0 0 1 1116.7698 268.7695)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 1116.7698 288.7695)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">INDUSTRIAL</text>
-<text transform="matrix(1 0 0 1 1240.6917 288.7695)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<rect id="rectangle20" x="1143.67" y="295.51" fill="none" width="111.41" height="44.57"/>
-<text transform="matrix(1 0 0 1 1143.6702 295.5098)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 1143.6702 315.5098)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">FUNKY</text>
-<text transform="matrix(1 0 0 1 1215.3616 315.5098)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<path id="bezier86" fill="none" d="M1170.53,411.76h223.479v83.86H1170.53V411.76z"/>
-<rect id="rectangle21" x="1191.09" y="406.94" fill="none" width="334.239" height="44.569"/>
-<text transform="matrix(1 0 0 1 1191.0901 406.9404)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 1191.0901 426.9404)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">FAMILY FRIENDLY</text>
-<text transform="matrix(1 0 0 1 1363.0413 426.9404)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<rect id="rectangle22" x="1208.4" y="433.68" fill="none" width="245.109" height="44.57"/>
-<text transform="matrix(1 0 0 1 1208.4006 433.6797)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 1208.4006 453.6797)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">TRADITIONAL</text>
-<text transform="matrix(1 0 0 1 1353.0022 453.6797)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<path id="bezier87" fill="none" d="M1177.01,573.43h241.109v22.36H1177.01V573.43z"/>
-<rect id="rectangle23" x="1227.67" y="568.62" fill="none" width="267.391" height="44.57"/>
-<text transform="matrix(1 0 0 1 1227.6702 568.6201)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 1227.6702 588.6201)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">LIGHT &amp; AIRY</text>
-<text transform="matrix(1 0 0 1 1359.5432 588.6201)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<path id="bezier88" fill="none" d="M1048.409,736.44h363.431v88.528h-363.43L1048.409,736.44L1048.409,736.44z"/>
-<rect id="rectangle24" x="1166.289" y="731.62" fill="none" width="245.11" height="44.57"/>
-<text transform="matrix(1 0 0 1 1166.2893 731.6201)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 1166.2893 751.6201)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28"> MINIMALIST</text>
-<text transform="matrix(1 0 0 1 1290.8206 751.6201)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<path id="bezier89" fill="none" d="M970.329,842.56h321.49v83.86h-321.49V842.56z"/>
-<rect id="rectangle25" x="1086.539" y="837.74" fill="none" width="133.7" height="44.568"/>
-<text transform="matrix(1 0 0 1 1086.5393 837.7402)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 1086.5393 857.7402)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">HOMELY</text>
-<text transform="matrix(1 0 0 1 1171.592 857.7402)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<rect id="rectangle26" x="1059.811" y="864.48" fill="none" width="245.109" height="44.568"/>
-<text transform="matrix(1 0 0 1 1059.8108 864.4805)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 1059.8108 884.4805)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">SHABBY CHIC</text>
-<text transform="matrix(1 0 0 1 1199.2131 884.4805)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<path id="bezier90" fill="none" d="M873.61,897.54h151.659v111.82H873.61V897.54z"/>
-<rect id="rectangle27" x="927.89" y="892.72" fill="none" width="66.851" height="44.57"/>
-<text transform="matrix(1 0 0 1 927.8899 892.7197)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">         </text>
-<text transform="matrix(1 0 0 1 927.8899 912.7197)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">LUX</text>
-<text transform="matrix(1 0 0 1 970.3616 912.7197)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.28">     </text>
-<circle fill="none" stroke="#FFFFFF" stroke-width="13" stroke-miterlimit="10" cx="976.76" cy="546.669" r="211.798"/>
+<path id="bezier77" fill="none" d="M324.327,373.559H537.24v69.989H324.327V373.559z"/>
+<rect id="rectangle" x="371.274" y="368.505" fill="none" width="178.764" height="44.693"/>
+<text transform="matrix(1 0 0 1 371.2742 368.5059)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">         </text>
+<text transform="matrix(1 0 0 1 385.3142 388.7852)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">RETAIL</text>
+<text transform="matrix(1 0 0 1 485.7136 388.7852)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">     </text>
+<rect id="rectangle2" x="380.221" y="395.32" fill="none" width="201.111" height="44.693"/>
+<text transform="matrix(1 0 0 1 384.1208 415.6016)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">SECTOR</text>
+<text transform="matrix(1 0 0 1 477.7795 415.6016)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">     </text>
+<path id="bezier78" fill="none" d="M462.072,266.771H649.02v58.46H462.072V266.771z"/>
+<rect id="rectangle3" x="520.096" y="261.716" fill="none" width="111.732" height="44.693"/>
+<text transform="matrix(1 0 0 1 520.0959 261.7168)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">         </text>
+<text transform="matrix(1 0 0 1 589.2083 281.998)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">     </text>
+<rect id="rectangle4" x="483.022" y="288.533" fill="none" width="245.806" height="44.693"/>
+<text transform="matrix(1 0 0 1 483.0232 288.5332)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">         </text>
+<text transform="matrix(1 0 0 1 496.283 308.8135)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">LOCATION</text>
+<text transform="matrix(1 0 0 1 623.6057 308.8135)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">     </text>
+<path id="bezier79" fill="none" d="M463.812,421.302h231.89v97.334h-231.89V421.302z"/>
+<rect id="rectangle5" x="544.306" y="416.248" fill="none" width="111.733" height="44.693"/>
+<text transform="matrix(1 0 0 1 544.3059 416.248)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">         </text>
+<text transform="matrix(1 0 0 1 528.7063 436.5283)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">CUSTOMER</text>
+<text transform="matrix(1 0 0 1 613.4182 436.5283)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">     </text>
+<rect id="rectangle6" x="528.855" y="443.064" fill="none" width="178.765" height="44.692"/>
+<text transform="matrix(1 0 0 1 528.8538 463.3438)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">TYPE</text>
+<text transform="matrix(1 0 0 1 627.5374 463.3438)" fill="#FFFFFF" font-family="'GillSans'" font-size="22.3466">     </text>
+<path id="bezier80" fill="none" d="M227.709,208.756h152.644v80.206H227.709V208.756z"/>
+<rect id="rectangle7" x="284.844" y="205.004" fill="none" width="104.284" height="34.764"/>
+<text transform="matrix(1 0 0 1 284.844 205.0059)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 243.5051 220.6055)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">HIGH STREET</text>
+<text transform="matrix(1 0 0 1 332.1409 220.6055)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<rect id="rectangle8" x="243.31" y="225.861" fill="none" width="208.561" height="34.764"/>
+<text transform="matrix(1 0 0 1 243.3098 225.8613)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 243.3098 241.4609)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">BRANDS</text>
+<text transform="matrix(1 0 0 1 361.0193 241.4609)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<path id="bezier81" fill="none" d="M142.49,365.065h204.611v21.949H142.49V365.065z"/>
+<rect id="rectangle9" x="216.783" y="361.313" fill="none" width="86.896" height="34.764"/>
+<text transform="matrix(1 0 0 1 216.782 361.3145)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 216.782 376.9141)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">LUXURY</text>
+<text transform="matrix(1 0 0 1 271.8274 376.9141)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<path id="bezier82" fill="none" d="M199.974,498.005h146.521v48.409H199.974V498.005z"/>
+<rect id="rectangle10" x="242.529" y="494.246" fill="none" width="104.284" height="34.763"/>
+<text transform="matrix(1 0 0 1 242.53 494.2471)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 235.51 512.1875)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">DISCOUNT</text>
+<text transform="matrix(1 0 0 1 307.7908 509.8467)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<rect id="rectangle11" x="240.994" y="515.104" fill="none" width="86.897" height="34.765"/>
+<text transform="matrix(1 0 0 1 304.4978 530.7031)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<path id="bezier83" fill="none" d="M257.583,584.591h211.063v90.425H257.583V584.591L257.583,584.591z"/>
+<rect id="rectangle12" x="332.189" y="580.833" fill="none" width="104.284" height="34.763"/>
+<text transform="matrix(1 0 0 1 332.1887 580.834)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 391.0779 596.4336)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<rect id="rectangle13" x="333.452" y="601.689" fill="none" width="104.283" height="34.762"/>
+<text transform="matrix(1 0 0 1 299.1331 617.29)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">INDEPENDANT</text>
+<text transform="matrix(1 0 0 1 391.5525 617.29)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<rect id="rectangle14" x="341.931" y="622.546" fill="none" width="69.521" height="34.765"/>
+<text transform="matrix(1 0 0 1 383.5691 638.1465)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<rect id="rectangle15" x="325.801" y="119.065" fill="none" width="141.801" height="23.625"/>
+<rect id="rectangle16" x="336.479" y="115.305" fill="none" width="191.181" height="34.765"/>
+<text transform="matrix(1 0 0 1 336.4788 115.3066)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 341.9387 130.9062)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">CITY CENTRE</text>
+<text transform="matrix(1 0 0 1 452.3894 130.9062)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<path id="bezier84" fill="none" d="M443.734,104.947h199.88v30.888h-199.88V104.947z"/>
+<rect id="rectangle17" x="498.996" y="101.188" fill="none" width="156.418" height="34.764"/>
+<text transform="matrix(1 0 0 1 498.9963 101.1895)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 492.7571 116.7891)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">RETAIL PARK</text>
+<text transform="matrix(1 0 0 1 586.0403 116.7891)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<path id="bezier85" fill="none" d="M607.203,146.887h136.476v79.949H607.203V146.887z"/>
+<rect id="rectangle18" x="646.078" y="143.128" fill="none" width="104.284" height="34.764"/>
+<text transform="matrix(1 0 0 1 646.0784 143.1289)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 708.9973 158.7285)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<rect id="rectangle19" x="626.01" y="163.984" fill="none" width="173.804" height="34.764"/>
+<text transform="matrix(1 0 0 1 626.01 163.9844)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 652.5295 179.585)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">MALL</text>
+<text transform="matrix(1 0 0 1 722.6672 179.585)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<rect id="rectangle20" x="646.991" y="184.841" fill="none" width="86.898" height="34.765"/>
+<text transform="matrix(1 0 0 1 702.9104 200.4414)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<path id="bezier86" fill="none" d="M667.942,275.515h174.312v65.41H667.942V275.515z"/>
+<rect id="rectangle21" x="683.979" y="271.755" fill="none" width="260.701" height="34.763"/>
+<text transform="matrix(1 0 0 1 683.9788 271.7559)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 707.3772 292.0361)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">SUBURBAN</text>
+<text transform="matrix(1 0 0 1 818.0979 287.3555)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<text transform="matrix(1 0 0 1 810.2678 308.2129)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<path id="bezier87" fill="none" d="M672.995,401.614h188.062v17.44H672.995V401.614z"/>
+<rect id="rectangle23" x="712.511" y="397.863" fill="none" width="208.56" height="34.764"/>
+<text transform="matrix(1 0 0 1 712.51 397.8643)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 693.011 391.625)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">STATUS CONSIOUS</text>
+<text transform="matrix(1 0 0 1 815.3694 413.4639)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<path id="bezier88" fill="none" d="M572.689,528.761h283.471v69.05H572.69L572.689,528.761L572.689,528.761z"/>
+<rect id="rectangle24" x="664.634" y="525" fill="none" width="191.183" height="34.764"/>
+<text transform="matrix(1 0 0 1 664.634 525.001)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 664.634 540.6016)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">PRICE SAVVY</text>
+<text transform="matrix(1 0 0 1 761.7659 540.6016)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<path id="bezier89" fill="none" d="M511.788,611.532h250.759v65.41H511.788V611.532z"/>
+<rect id="rectangle25" x="602.43" y="607.773" fill="none" width="104.284" height="34.761"/>
+<text transform="matrix(1 0 0 1 602.4299 607.7744)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 668.7698 623.374)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<rect id="rectangle26" x="581.582" y="628.631" fill="none" width="191.183" height="34.761"/>
+<text transform="matrix(1 0 0 1 581.5823 628.6318)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 584.5823 634.2305)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">TECH LOVER</text>
+<text transform="matrix(1 0 0 1 690.3147 644.2305)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<path id="bezier90" fill="none" d="M436.349,654.416h118.292v87.218H436.349V654.416z"/>
+<rect id="rectangle27" x="478.686" y="650.656" fill="none" width="52.144" height="34.764"/>
+<text transform="matrix(1 0 0 1 478.6858 650.6572)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">         </text>
+<text transform="matrix(1 0 0 1 465.4265 670.9375)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">SHOPPER</text>
+<text transform="matrix(1 0 0 1 511.8132 666.2578)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">     </text>
+<circle fill="none" stroke="#FFFFFF" stroke-width="13" stroke-miterlimit="10" cx="516.804" cy="380.742" r="165.199"/>
+<text transform="matrix(1 0 0 1 693.011 417.668)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">FASHIONISTA</text>
+<text transform="matrix(1 0 0 1 466.3074 646.791)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">BASED</text>
+<text transform="matrix(1 0 0 1 466.7708 622.3916)" fill="#FFFFFF" font-family="'GillSans'" font-size="17.3781">NEEDS</text>
 </svg>
