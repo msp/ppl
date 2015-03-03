@@ -7,7 +7,7 @@
   'use strict';
   console.log('PPL starting..');
 
-  var s = new Snap(1920,1080);
+  var s = new Snap(1024,768);
   var tl = new TimelineLite();
   var json;
 
@@ -28,20 +28,20 @@
     }
 
   function loadJsonMovies() {
-    if (!json) {
-      $.getJSON('/movies.json', function(data) {
-        console.log('loaded JSON ->');
-        console.log(data);
-        json = data;
+    console.log('loadJsonMovies..');
+    $.getJSON('/movies.json', function(data) {
+      console.log('loaded JSON ->');
+      console.log(data);
+      json = data;
 
-        $.each(['outerBottom'], function(index, value) {
-          $('#'+value+' path').each(function(index) {
-            $(this).attr('class', value+index);
-            $(this).attr('ppl:movie', json[value+index]);
-          });
+      $.each(['outerBottom'], function(index, value) {
+        $('#'+value+' path').each(function(index) {
+          $(this).attr('class', value+index);
+          $(this).attr('ppl:movie', json[value+index]);
+          console.log('segment: '+$(this).attr('class')+' movie: '+$(this).attr('ppl:movie'));
         });
       });
-    }
+    });
   }
 
   function bindEventHandlers() {
@@ -110,6 +110,7 @@
   }
 
   function main() {
+    tl.clear();
     Snap.load('/ppl-pie-menu.svg', function (f) {
       amendSVGWhilstLoading(f);
       attachSVGToDOM(f);
