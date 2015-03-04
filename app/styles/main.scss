@@ -23,12 +23,22 @@ html, body {
 
 #buttonWrapper {
   position: absolute;
-  bottom: 0px;
-  left: 0px;
+  top: 0px;
+  right: 0px;
   border-top: 0px solid #ccc;
   padding: 5px;
-
 }
+
+#buttonWrapper .btn-default {
+  background-color: inherit;
+  border-color: #333;
+}
+
+#buttonWrapper .btn-default:hover {
+  color: #ccc;
+  border-color: #ccc;
+}
+
 
 text {
   pointer-events: none;

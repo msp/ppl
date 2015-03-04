@@ -284,9 +284,9 @@
     </text>
     <path id="bezier107" stroke="none" fill="none" d="M 672.99,401.61 L 861.06,401.61 861.06,419.05 672.99,419.05 672.99,401.61 Z M 672.99,401.61" />
     <path id="bezier108" stroke="none" fill="none" d="M 712.51,397.86 L 921.07,397.86 921.07,432.63 712.51,432.63 712.51,397.86 Z M 712.51,397.86" />
-    <rect id="rectangle16" stroke="none" fill="none" x="694.01" y="375.62" width="260.67" height="34.76" />
-    <text fill="rgb(255, 255, 255)" font-family="GillSans, 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif" font-size="16.38" x="694.01" y="375.62">
-        <tspan x="694.01" y="390.62">STATUS CONSCIOUS</tspan>
+    <rect id="rectangle16" stroke="none" fill="none" x="717" y="392" width="261" height="20" />
+    <text fill="rgb(255, 255, 255)" font-family="GillSans, 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif" font-size="17.38" x="717" y="392">
+        <tspan x="717" y="408">CONSCIOUS</tspan>
     </text>
     <path id="bezier109" stroke="none" fill="none" d="M 572.69,528.76 L 856.16,528.76 856.16,597.81 572.69,597.81 572.69,528.76 572.69,528.76 Z M 572.69,528.76" />
     <path id="bezier110" stroke="none" fill="none" d="M 664.63,525 L 855.82,525 855.82,559.76 664.63,559.76 664.63,525 Z M 664.63,525" />
@@ -307,9 +307,9 @@
         <tspan x="465.43" y="670.93">SHOPPER</tspan>
     </text>
     <path id="bezier116" stroke="rgb(255, 255, 255)" stroke-width="13" stroke-miterlimit="10" fill="none" d="M 633.62,263.93 C 698.13,328.44 698.13,433.04 633.62,497.56 569.1,562.07 464.5,562.07 399.99,497.56 335.48,433.04 335.48,328.44 399.99,263.93 464.5,199.41 569.1,199.41 633.62,263.93 Z M 633.62,263.93" />
-    <rect id="rectangle20" stroke="none" fill="none" x="694.01" y="401.66" width="191.16" height="34.76" />
-    <text fill="rgb(255, 255, 255)" font-family="GillSans, 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif" font-size="16.38" x="694.01" y="401.66">
-        <tspan x="694.01" y="416.66">FASHIONISTA</tspan>
+    <rect id="rectangle20" stroke="none" fill="none" x="717" y="416.66" width="191.16" height="34.76" />
+    <text fill="rgb(255, 255, 255)" font-family="GillSans, 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif" font-size="17.38" x="717" y="416.66">
+        <tspan x="717" y="432.66">FASHIONISTA</tspan>
     </text>
     <rect id="rectangle21" stroke="none" fill="none" x="466.31" y="630.78" width="86.89" height="34.76" />
     <text fill="rgb(255, 255, 255)" font-family="GillSans, 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif" font-size="17.38" x="466.31" y="630.78">
@@ -318,5 +318,9 @@
     <rect id="rectangle22" stroke="none" fill="none" x="466.77" y="606.38" width="86.89" height="34.76" />
     <text fill="rgb(255, 255, 255)" font-family="GillSans, 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif" font-size="17.38" x="466.77" y="606.38">
         <tspan x="466.77" y="622.38">NEEDS</tspan>
+    </text>
+    <rect id="rectangle23" stroke="none" fill="none" x="717" y="367" width="261" height="23" />
+    <text fill="rgb(255, 255, 255)" font-family="GillSans, 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif" font-size="17.38" x="717" y="367">
+        <tspan x="717" y="383">STATUS</tspan>
     </text>
 </svg>
