@@ -100,7 +100,12 @@
   }
 
   function playVideo(el) {
-    $('#playlist video source').attr('src', el.attr('ppl:movie'));
+
+    $('#playlist video source').remove();
+    $('#playlist video')
+        .append('<source />')
+        .attr({ type : 'video/mp4', src : el.attr('ppl:movie')  });
+    // $('#playlist video source').attr('src', el.attr('ppl:movie'));
     $('#playlist video')[0].load();
     $('#playlist video')[0].play();
   }
